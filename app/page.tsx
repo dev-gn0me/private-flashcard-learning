@@ -6,35 +6,50 @@ export default function HomePage() {
 
   return (
     <div>
-      <section className="heroCard">
-        <h1>Deine private Karteikarten-Lernapp</h1>
-        <p>
-          Mobile-first, schnell auf dem Handy und ideal für Vercel. Aktuell sind {subjects.length} Fächer
-          mit insgesamt {totalCards} Karten importiert.
-        </p>
+      <section className="heroCard compactHero">
+        <div>
+          <h1>Deine Lernapp</h1>
+          <p>
+            {subjects.length} Unterthemen, {totalCards} Karten. Wähle ein Fach und starte entweder alles
+            zusammen oder nur ein einzelnes Unterthema.
+          </p>
+        </div>
+        <div className="heroActions">
+          <Link className="ghostButton" href="/lernhilfe">Lernhilfe</Link>
+        </div>
       </section>
 
-      {subjectGroups.map((group) => (
-        <section className="categorySection" key={group.category}>
-          <div className="categoryHeader">
-            <h2>{group.category}</h2>
-            <span className="pill">{group.subjects.length} Fächer</span>
-          </div>
-
-          <div className="subjectGrid">
-            {group.subjects.map((subject) => (
-              <article className="subjectCard" key={subject.id}>
-                <h3>{subject.title}</h3>
-                <div className="subjectMeta">{subject.cards.length} Karten</div>
-                <div className="subjectMeta">Quelle: {subject.sourceFile}</div>
-                <Link className="primaryButton" href={`/subject/${subject.id}`}>
-                  Jetzt lernen
+      <div className="accordionList">
+        {subjectGroups.map((group) => (
+          <details className="categoryAccordion" key={group.id}>
+            <summary className="categorySummary">
+              <div>
+                <h2>{group.category}</h2>
+                <p>{group.subjects.length} Unterthemen · {group.cards.length} Karten</p>
+              </div>
+              <div className="summaryActions" onClick={(event) => event.preventDefault()}>
+                <Link className="primaryButton" href={`/study/fach-${group.id}`}>
+                  ▶ Fach lernen
                 </Link>
-              </article>
-            ))}
-          </div>
-        </section>
-      ))}
+              </div>
+            </summary>
+
+            <div className="subtopicList">
+              {group.subjects.map((subject) => (
+                <article className="subtopicRow" key={subject.id}>
+                  <div>
+                    <h3>{subject.title}</h3>
+                    <p>{subject.cards.length} Karten</p>
+                  </div>
+                  <Link className="ghostButton" href={`/study/thema-${subject.id}`}>
+                    ▶ Thema lernen
+                  </Link>
+                </article>
+              ))}
+            </div>
+          </details>
+        ))}
+      </div>
     </div>
   );
 }

@@ -4,6 +4,7 @@ import xlsx from "xlsx";
 
 const importsDir = path.join(process.cwd(), "imports");
 const outFile = path.join(process.cwd(), "data", "flashcards.json");
+const mappingFile = path.join(process.cwd(), "config", "subject-mapping.json");
 
 function slugify(text) {
   return text
@@ -16,16 +17,36 @@ function slugify(text) {
     .replace(/^-+|-+$/g, "");
 }
 
+function normalizeTitle(rawTitle) {
+  return rawTitle.replace(/\s+/g, " ").trim();
+}
+
 const CATEGORY_RULES = [
   { match: /^(auge|blut|zelle)/i, category: "Biologie" },
   { match: /^(geo|geographie)/i, category: "Geographie" },
   { match: /(weimar|republik|geschichte)/i, category: "Geschichte" }
 ];
 
-function inferCategory(rawTitle, fileName) {
-  const haystack = `${rawTitle} ${fileName}`;
+const mapping = fs.existsSync(mappingFile)
+  ? JSON.parse(fs.readFileSync(mappingFile, "utf8"))
+  : {};
+
+function inferSubjectConfig(rawTitle, fileName) {
+  const normalized = normalizeTitle(rawTitle);
+  const mapped = mapping[normalized];
+  if (mapped) {
+    return {
+      title: mapped.title ?? normalized,
+      category: mapped.category ?? "Sonstiges"
+    };
+  }
+
+  const haystack = `${normalized} ${fileName}`;
   const found = CATEGORY_RULES.find((rule) => rule.match.test(haystack));
-  return found?.category ?? "Sonstiges";
+  return {
+    title: normalized,
+    category: found?.category ?? "Sonstiges"
+  };
 }
 
 if (!fs.existsSync(importsDir)) {
@@ -39,11 +60,12 @@ const subjects = [];
 for (const file of files) {
   const workbook = xlsx.readFile(path.join(importsDir, file));
   const rawTitle = file.replace(/^Karteikarten_/i, "").replace(/\.xlsx$/i, "").replaceAll("_", " ");
+  const subjectConfig = inferSubjectConfig(rawTitle, file);
   const subject = {
-    id: slugify(rawTitle),
-    title: rawTitle,
+    id: slugify(subjectConfig.title),
+    title: subjectConfig.title,
     sourceFile: file,
-    category: inferCategory(rawTitle, file),
+    category: subjectConfig.category,
     cards: []
   };
 
@@ -74,6 +96,8 @@ for (const file of files) {
 
   subjects.push(subject);
 }
+
+subjects.sort((a, b) => a.category.localeCompare(b.category, "de") || a.title.localeCompare(b.title, "de"));
 
 fs.writeFileSync(outFile, JSON.stringify({ subjects }, null, 2), "utf8");
 console.log(`Fertig. ${subjects.length} Fächer exportiert nach ${outFile}`);

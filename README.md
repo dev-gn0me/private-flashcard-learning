@@ -1,56 +1,46 @@
 # Karteikarten Lernapp
 
-Private, einfache Lernapp für deine Excel-Karteikarten.
+Private Next.js-Lernapp für Excel-Karteikarten mit einfachem Login, Mobile-UI und lokalem Lerntracking.
 
-## Was drin ist
-
-- Next.js App für Vercel
-- einfacher Hardcoded-Login
-- Mobile-first Oberfläche
-- Lernmodus pro Fach
-- Fortschritt pro Fach im Browser gespeichert
-- Import-Skript für neue `.xlsx`-Dateien
-
-## Standard-Login
-
-Diese Zugangsdaten sind absichtlich simpel und nur für private Nutzung gedacht:
-
-- `admin` / `geheime-karten-2026`
-- `lernuser` / `bio-geo-geschichte`
-
-Ändern kannst du sie in `lib/auth.ts`.
-
-## Lokal starten
+## Start
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Auf Vercel deployen
+## Neue Excel-Dateien importieren
 
-1. Projekt in ein Git-Repo legen
-2. Repo bei Vercel importieren
-3. Deploy ausführen
-
-## Neue Excel-Dateien hinzufügen
-
-1. Neue `.xlsx`-Dateien in den Ordner `imports/` legen
-2. Dann ausführen:
+1. `.xlsx`-Dateien in `imports/` legen
+2. Mapping in `config/subject-mapping.json` ergänzen
+3. Import ausführen:
 
 ```bash
 npm run import:cards
 ```
 
-3. Änderungen committen und neu deployen
+## Fach → Oberfach Mapping
 
-## Erwartetes Excel-Format
+Die Zuordnung läuft primär über `config/subject-mapping.json`.
 
-Die App erwartet pro Zeile ungefähr dieses Schema:
+Beispiel:
 
-- `Nr.`
-- `Frage`
-- `Antwort`
-- `Bildreferenz`
+```json
+{
+  "Auge": { "category": "Biologie", "title": "Auge" },
+  "Geographie Die Erde": { "category": "Geographie", "title": "Die Erde" }
+}
+```
 
-Zwischenüberschriften funktionieren als Zeilen ohne Nummer, aber mit Text in der Spalte `Frage`.
+- `category` = Oberfach
+- `title` = Anzeigename des Fachs in der App
+
+Wenn kein Mapping vorhanden ist, nutzt das Importskript einfache Fallback-Regeln.
+
+## Login anpassen
+
+Zugangsdaten ändern in `lib/auth.ts`.
+
+## Tracking
+
+Lernfortschritt wird lokal im Browser gespeichert. Für private Nutzung ist das bewusst einfach gehalten.

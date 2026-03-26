@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import type { Card, Subject } from "@/lib/data";
+import type { Card, StudyDeck } from "@/lib/data";
 
-type SubjectStats = {
+type DeckStats = {
   seen: number;
   correct: number;
   wrong: number;
@@ -12,7 +12,7 @@ type SubjectStats = {
   completedCardIds: string[];
 };
 
-const DEFAULT_STATS: SubjectStats = {
+const DEFAULT_STATS: DeckStats = {
   seen: 0,
   correct: 0,
   wrong: 0,
@@ -30,49 +30,51 @@ function shuffle<T>(items: T[]) {
   return copy;
 }
 
-function storageKey(subjectId: string) {
-  return `flashcards_progress_${subjectId}`;
+function storageKey(deckId: string) {
+  return `flashcards_progress_${deckId}`;
 }
 
-export function StudyClient({ subject }: { subject: Subject }) {
+export function StudyClient({ deck }: { deck: StudyDeck }) {
   const [queue, setQueue] = useState<Card[]>([]);
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [mode, setMode] = useState<"all" | "open">("open");
-  const [stats, setStats] = useState<SubjectStats>(DEFAULT_STATS);
+  const [stats, setStats] = useState<DeckStats>(DEFAULT_STATS);
 
   useEffect(() => {
-    const saved = localStorage.getItem(storageKey(subject.id));
+    const saved = localStorage.getItem(storageKey(deck.id));
     if (saved) {
       try {
-        setStats(JSON.parse(saved) as SubjectStats);
+        setStats(JSON.parse(saved) as DeckStats);
       } catch {
         setStats(DEFAULT_STATS);
       }
+      return;
     }
-  }, [subject.id]);
+    setStats(DEFAULT_STATS);
+  }, [deck.id]);
 
   useEffect(() => {
     const completed = new Set(stats.completedCardIds);
     const base = mode === "open"
-      ? subject.cards.filter((card) => !completed.has(card.id))
-      : subject.cards;
-    setQueue(shuffle(base.length > 0 ? base : subject.cards));
+      ? deck.cards.filter((card) => !completed.has(card.id))
+      : deck.cards;
+    setQueue(shuffle(base.length > 0 ? base : deck.cards));
     setIndex(0);
     setRevealed(false);
-  }, [subject.cards, subject.id, mode, stats.completedCardIds]);
+  }, [deck.cards, deck.id, mode, stats.completedCardIds]);
 
   const currentCard = queue[index];
 
   const progress = useMemo(() => {
-    const total = subject.cards.length;
+    const total = deck.cards.length;
     const done = Math.min(stats.completedCardIds.length, total);
     return Math.round((done / total) * 100);
-  }, [stats.completedCardIds.length, subject.cards.length]);
+  }, [stats.completedCardIds.length, deck.cards.length]);
 
-  function persist(next: SubjectStats) {
+  function persist(next: DeckStats) {
     setStats(next);
-    localStorage.setItem(storageKey(subject.id), JSON.stringify(next));
+    localStorage.setItem(storageKey(deck.id), JSON.stringify(next));
   }
 
   function markResult(result: "correct" | "wrong") {
@@ -83,7 +85,7 @@ export function StudyClient({ subject }: { subject: Subject }) {
       completed.add(currentCard.id);
     }
 
-    const nextStats: SubjectStats = {
+    const nextStats: DeckStats = {
       seen: stats.seen + 1,
       correct: stats.correct + (result === "correct" ? 1 : 0),
       wrong: stats.wrong + (result === "wrong" ? 1 : 0),
@@ -101,15 +103,15 @@ export function StudyClient({ subject }: { subject: Subject }) {
     }
 
     const fallbackBase = mode === "open"
-      ? subject.cards.filter((card) => !completed.has(card.id))
-      : subject.cards;
-    const nextQueue = shuffle(fallbackBase.length > 0 ? fallbackBase : subject.cards);
+      ? deck.cards.filter((card) => !completed.has(card.id))
+      : deck.cards;
+    const nextQueue = shuffle(fallbackBase.length > 0 ? fallbackBase : deck.cards);
     setQueue(nextQueue);
     setIndex(0);
   }
 
   function resetProgress() {
-    localStorage.removeItem(storageKey(subject.id));
+    localStorage.removeItem(storageKey(deck.id));
     setStats(DEFAULT_STATS);
     setMode("open");
   }
@@ -121,7 +123,7 @@ export function StudyClient({ subject }: { subject: Subject }) {
   return (
     <div className="studyLayout">
       <div className="studyTopBar">
-        <span className="pill">{subject.cards.length} Karten</span>
+        <span className="pill">{deck.cards.length} Karten</span>
         <span className="pill">{progress}% gelernt</span>
         <span className="pill">Serie: {stats.streak}</span>
       </div>
