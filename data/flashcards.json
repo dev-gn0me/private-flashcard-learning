@@ -1,0 +1,3655 @@
+{
+  "subjects": [
+    {
+      "id": "auge",
+      "title": "Auge",
+      "sourceFile": "Karteikarten_Auge.xlsx",
+      "cards": [
+        {
+          "id": "auge-1",
+          "nr": 1,
+          "question": "Was sind Sinnesorgane und wozu dienen sie?",
+          "answer": "Sinnesorgane nehmen Informationen aus der Umwelt auf (Reize) und leiten sie über Nerven an das Gehirn weiter. Das Gehirn verarbeitet die Reize und löst entsprechende Reaktionen aus.",
+          "section": "DIE SINNESORGANE UND DEREN BEDEUTUNG FÜR DIE WAHRNEHMUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-2",
+          "nr": 2,
+          "question": "Was ist ein Reiz?",
+          "answer": "Ein Reiz ist ein Signal aus der Umwelt (z.B. Licht, Schall, Temperatur, Druck), das von einem Sinnesorgan aufgenommen und an das Nervensystem weitergeleitet wird.",
+          "section": "DIE SINNESORGANE UND DEREN BEDEUTUNG FÜR DIE WAHRNEHMUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-3",
+          "nr": 3,
+          "question": "Beschreibe den Weg der Informationsverarbeitung: vom Reiz zur Reaktion.",
+          "answer": "Reiz → Sinnesorgan (Aufnahme) → Nerven (Weiterleitung) → Gehirn (Verarbeitung/Wahrnehmung) → Reaktion",
+          "section": "DIE SINNESORGANE UND DEREN BEDEUTUNG FÜR DIE WAHRNEHMUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-4",
+          "nr": 4,
+          "question": "Mit welchem Gerät wird das Auge oft verglichen und warum?",
+          "answer": "Mit einer vollautomatischen Kamera mit Autofokus und Lichtblendenautomatik. Denn das Auge stellt sich automatisch auf Entfernung (Akkommodation) und Helligkeit (Adaptation) ein.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-5",
+          "nr": 5,
+          "question": "Beschreibe den Weg des Lichts durch das Auge (Sehvorgang) in der richtigen Reihenfolge.",
+          "answer": "1. Licht trifft auf die Hornhaut (durchsichtige Lederhaut)\n2. Licht passiert die vordere Augenkammer\n3. Licht dringt durch die Pupille\n4. Licht wird in der Linse gebrochen\n5. Licht geht durch den Glaskörper\n6. Licht trifft auf die Netzhaut → kopfstehendes Bild\n7. Stäbchen und Zapfen werden gereizt\n8. Reize werden über Sehnerv ans Gehirn geleitet\n9. Gehirn erzeugt die Wahrnehmung",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-6",
+          "nr": 6,
+          "question": "Was ist die Hornhaut?",
+          "answer": "Der vordere, durchsichtige Teil der Lederhaut. Hier tritt das Licht zuerst ins Auge ein. Sie schützt das Auge und bricht das Licht bereits vor.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-7",
+          "nr": 7,
+          "question": "Was ist die Lederhaut (weiße Augenhaut)?",
+          "answer": "Die äußere, weiße Schutzhülle des Augapfels. Vorne wird sie durchsichtig und heißt dort Hornhaut.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-8",
+          "nr": 8,
+          "question": "Was ist die Aderhaut und welche Funktion hat sie?",
+          "answer": "Die Aderhaut liegt zwischen Netzhaut und Lederhaut. Ihre Blutgefäße versorgen das Auge mit Nährstoffen und Sauerstoff. Vorne geht sie in die Iris über.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-9",
+          "nr": 9,
+          "question": "Was ist die Netzhaut und welche Aufgabe hat sie?",
+          "answer": "Die Netzhaut (Retina) liegt an der Innenseite des Augapfels. Sie enthält die lichtempfindlichen Sinneszellen (Stäbchen und Zapfen), auf denen das Bild entsteht.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-10",
+          "nr": 10,
+          "question": "Was sind Zapfen und was ist ihre Funktion?",
+          "answer": "Zapfen sind Sinneszellen in der Netzhaut. Sie sind für das Farbensehen zuständig, aber weniger lichtempfindlich als Stäbchen. Sie funktionieren vor allem bei hellem Licht.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-11",
+          "nr": 11,
+          "question": "Was sind Stäbchen und was ist ihre Funktion?",
+          "answer": "Stäbchen sind Sinneszellen in der Netzhaut. Sie sind sehr lichtempfindlich (Dämmerungssehen), können aber keine Farben unterscheiden – nur Hell-Dunkel-Kontraste.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-12",
+          "nr": 12,
+          "question": "Was ist der Glaskörper?",
+          "answer": "Der Glaskörper ist die durchsichtige, gelartige Masse, die den Augapfel von innen ausfüllt (hintere Augenkammer). Das gebrochene Licht durchquert ihn auf dem Weg zur Netzhaut.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-13",
+          "nr": 13,
+          "question": "Was ist die Iris und welche Funktionen hat sie?",
+          "answer": "Die Iris (Regenbogenhaut) ist ein Ringmuskel, der die Pupille umgibt. Sie bestimmt die Augenfarbe und reguliert den Lichteinfall, indem sie die Pupille vergrößert oder verkleinert.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-14",
+          "nr": 14,
+          "question": "Was ist die Pupille?",
+          "answer": "Die Pupille ist die Öffnung (Loch) in der Mitte der Iris, durch die das Licht ins Auge eintritt. Sie wird bei Helligkeit kleiner und bei Dunkelheit größer.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-15",
+          "nr": 15,
+          "question": "Was ist die Linse und welche Aufgabe hat sie?",
+          "answer": "Die Linse ist ein durchsichtiger, elastischer Körper hinter der Iris. Sie bricht die Lichtstrahlen und bündelt sie auf der Netzhaut, sodass ein scharfes Bild entsteht. Ihre Wölbung wird durch den Ringmuskel und die Linsenbänder verändert.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-16",
+          "nr": 16,
+          "question": "Was ist der Ringmuskel (Ziliarmuskel) und wie wirkt er auf die Linse?",
+          "answer": "Der Ringmuskel umgibt die Linse. Er steuert über die Linsenbänder die Wölbung der Linse:\n- Entspannt → Linsenbänder gespannt → Linse flach (Fernsicht)\n- Angespannt → Linsenbänder locker → Linse gewölbt (Nahsicht)",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-17",
+          "nr": 17,
+          "question": "Was sind die Linsenbänder?",
+          "answer": "Die Linsenbänder verbinden den Ringmuskel mit der Linse. Sie übertragen die Spannung des Ringmuskels auf die Linse und steuern so deren Form (flach oder gewölbt).",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-18",
+          "nr": 18,
+          "question": "Was ist der gelbe Fleck?",
+          "answer": "Die Stelle auf der Netzhaut direkt gegenüber der Pupille. Hier stehen Zapfen und Stäbchen besonders dicht → Stelle des schärfsten Sehens.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-19",
+          "nr": 19,
+          "question": "Was ist der blinde Fleck?",
+          "answer": "Die Stelle, an der der Sehnerv durch die Netzhaut zum Gehirn geht. Dort liegen keine Sinneszellen → an dieser Stelle kann nicht gesehen werden.",
+          "section": "DIE FUNKTION DES AUGES / AUFBAU",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-20",
+          "nr": 20,
+          "question": "Wo entsteht das Bild im Auge und wie sieht es aus?",
+          "answer": "Das Bild entsteht auf der Netzhaut. Es steht auf dem Kopf und ist seitenverkehrt. Erst das Gehirn dreht es richtig herum.",
+          "section": "AUFNAHME UND VERARBEITUNG VON REIZEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-21",
+          "nr": 21,
+          "question": "Warum sieht man erst im Gehirn wirklich?",
+          "answer": "Das Gehirn:\n1. Führt Bilder beider Augen zu einem 3D-Bild zusammen\n2. Mischt Stäbchen- und Zapfen-Infos zu Farbbildern\n3. Gleicht Gesehenes mit Erinnerungen ab\n4. Schätzt Größe und Entfernung\n5. Ergänzt Lücken aus Erfahrung\n→ Erst damit entsteht die Wahrnehmung.",
+          "section": "AUFNAHME UND VERARBEITUNG VON REIZEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-22",
+          "nr": 22,
+          "question": "Was ist die Akkommodation?",
+          "answer": "Die automatische Anpassung des Auges an unterschiedliche Entfernungen. Die Linse verändert ihre Wölbung:\n- Fernsicht: Linse flach (Ringmuskel entspannt, Linsenbänder gespannt)\n- Nahsicht: Linse gewölbt (Ringmuskel angespannt, Linsenbänder locker)",
+          "section": "AUFNAHME UND VERARBEITUNG VON REIZEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-23",
+          "nr": 23,
+          "question": "Was ist die Adaptation?",
+          "answer": "Die automatische Anpassung des Auges an unterschiedliche Lichtverhältnisse. Die Iris verändert die Pupillengröße:\n- Bei Helligkeit: Pupille wird kleiner (weniger Licht)\n- Bei Dunkelheit: Pupille wird größer (mehr Licht)",
+          "section": "AUFNAHME UND VERARBEITUNG VON REIZEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-24",
+          "nr": 24,
+          "question": "Was ist der Unterschied zwischen Akkommodation und Adaptation?",
+          "answer": "Akkommodation = Entfernungsanpassung (Linse verändert Form)\nAdaptation = Helligkeitsanpassung (Iris/Pupille verändert Größe)\nBeides geschieht automatisch.",
+          "section": "AUFNAHME UND VERARBEITUNG VON REIZEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-25",
+          "nr": 25,
+          "question": "Nenne fünf Schutzfunktionen des Auges.",
+          "answer": "1. Augenhöhle (Schädelknochen) schützt den Augapfel\n2. Augenbrauen schützen vor herablaufendem Schweiß\n3. Wimpern schützen vor Staub\n4. Tränenflüssigkeit spült Fremdkörper heraus\n5. Lederhaut (weiße Augenhaut) schützt den Augapfel",
+          "section": "SCHUTZFUNKTIONEN DES AUGES",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-26",
+          "nr": 26,
+          "question": "Was ist der Augapfel und wie wird er bewegt?",
+          "answer": "Der Augapfel hat Form und Größe eines Tischtennisballs. Er liegt geschützt in der Augenhöhle und wird von drei Augenmuskelpaaren in alle Richtungen gedreht.",
+          "section": "SCHUTZFUNKTIONEN DES AUGES",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-27",
+          "nr": 27,
+          "question": "Was ist die Ursache von Fehlsichtigkeiten?",
+          "answer": "Eine fehlerhafte Ausbildung (Form) des Augapfels:\n- Kurzsichtigkeit: Augapfel zu lang\n- Weitsichtigkeit: Augapfel zu kurz/zu rund",
+          "section": "FEHLSICHTIGKEITEN UND DEREN KORREKTUR",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-28",
+          "nr": 28,
+          "question": "Was ist Kurzsichtigkeit? Ursache, Symptom, Korrektur.",
+          "answer": "Ursache: Augapfel ist zu lang → Bild entsteht VOR der Netzhaut.\nSymptom: Ferne Gegenstände sind unscharf, nahe scharf.\nKorrektur: Zerstreuungslinse (konkave Linse, Minusglas).",
+          "section": "FEHLSICHTIGKEITEN UND DEREN KORREKTUR",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": "→ Abb. 6.4 (S. 50): Kurzsichtigkeit und Korrektur"
+        },
+        {
+          "id": "auge-29",
+          "nr": 29,
+          "question": "Was ist Weitsichtigkeit? Ursache, Symptom, Korrektur.",
+          "answer": "Ursache: Augapfel ist zu kurz → Bild entsteht HINTER der Netzhaut.\nSymptom: Nahe Gegenstände sind unscharf, ferne scharf.\nKorrektur: Sammellinse (konvexe Linse, Plusglas).",
+          "section": "FEHLSICHTIGKEITEN UND DEREN KORREKTUR",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": "→ Abb. 6.5 (S. 50): Weitsichtigkeit und Korrektur"
+        },
+        {
+          "id": "auge-30",
+          "nr": 30,
+          "question": "Was ist Altersweitsichtigkeit und wodurch entsteht sie?",
+          "answer": "Im Alter lässt die Elastizität der Linse nach → sie kann sich nicht mehr so stark wölben → Nahsicht wird schlechter. Ähnlich der angeborenen Weitsichtigkeit. Korrektur: Sammellinse (Lesebrille).",
+          "section": "FEHLSICHTIGKEITEN UND DEREN KORREKTUR",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-31",
+          "nr": 31,
+          "question": "Was passiert, wenn ein Kurzsichtiger im Alter zusätzlich altersweitsichtig wird?",
+          "answer": "Die beiden Fehlsichtigkeiten heben sich NICHT auf. Die Person braucht für Ferne und Nähe unterschiedliche Korrekturen → Bifokalbrille oder Gleitsichtbrille.",
+          "section": "FEHLSICHTIGKEITEN UND DEREN KORREKTUR",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-32",
+          "nr": 32,
+          "question": "Definiere: Akkommodation",
+          "answer": "Entfernungsanpassung des Auges durch Veränderung der Linsenwölbung (Ringmuskel + Linsenbänder).",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-33",
+          "nr": 33,
+          "question": "Definiere: Adaptation",
+          "answer": "Helligkeitsanpassung des Auges durch Veränderung der Pupillengröße (Iris als Ringmuskel).",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-34",
+          "nr": 34,
+          "question": "Definiere: Glaskörper",
+          "answer": "Durchsichtige, gelartige Masse, die den Augapfel ausfüllt. Das Licht durchquert ihn auf dem Weg von der Linse zur Netzhaut.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-35",
+          "nr": 35,
+          "question": "Definiere: Netzhaut",
+          "answer": "Innere Schicht des Auges mit den Sinneszellen (Stäbchen + Zapfen). Hier entsteht das Bild.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-36",
+          "nr": 36,
+          "question": "Definiere: Aderhaut",
+          "answer": "Mittlere Schicht des Auges zwischen Netzhaut und Lederhaut. Versorgt das Auge über Blutgefäße. Geht vorne in die Iris über.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-37",
+          "nr": 37,
+          "question": "Definiere: Lederhaut",
+          "answer": "Äußere, weiße Schutzhülle des Augapfels. Vorne durchsichtig = Hornhaut.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-38",
+          "nr": 38,
+          "question": "Definiere: Hornhaut",
+          "answer": "Der vordere, durchsichtige Teil der Lederhaut. Erste Lichtbrechung und Schutz.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-39",
+          "nr": 39,
+          "question": "Definiere: Zapfen",
+          "answer": "Farbempfindliche Sinneszellen in der Netzhaut. Weniger lichtempfindlich. Für das Tagessehen.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-40",
+          "nr": 40,
+          "question": "Definiere: Stäbchen",
+          "answer": "Sehr lichtempfindliche Sinneszellen in der Netzhaut. Kein Farbsehen. Für das Dämmerungssehen.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-41",
+          "nr": 41,
+          "question": "Definiere: Linse",
+          "answer": "Durchsichtiger, elastischer Körper hinter der Iris. Bricht das Licht und bündelt es auf der Netzhaut. Form wird durch Ringmuskel/Linsenbänder gesteuert.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-42",
+          "nr": 42,
+          "question": "Definiere: Iris",
+          "answer": "Regenbogenhaut. Ringmuskel um die Pupille. Bestimmt Augenfarbe und reguliert Lichteinfall (Adaptation).",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-43",
+          "nr": 43,
+          "question": "Definiere: Ringmuskel (Ziliarmuskel)",
+          "answer": "Muskel um die Linse. Steuert über Linsenbänder die Wölbung der Linse für die Akkommodation.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-44",
+          "nr": 44,
+          "question": "Definiere: Linsenbänder",
+          "answer": "Verbinden Ringmuskel mit der Linse. Übertragen Spannung → steuern Linsenform.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-45",
+          "nr": 45,
+          "question": "Definiere: Kurzsichtigkeit",
+          "answer": "Augapfel zu lang → Bild vor der Netzhaut → Ferne unscharf. Korrektur: Zerstreuungslinse.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-46",
+          "nr": 46,
+          "question": "Definiere: Weitsichtigkeit",
+          "answer": "Augapfel zu kurz → Bild hinter der Netzhaut → Nähe unscharf. Korrektur: Sammellinse.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-47",
+          "nr": 47,
+          "question": "Definiere: Reiz",
+          "answer": "Ein Signal aus der Umwelt (Licht, Schall, Temperatur, Druck usw.), das von einem Sinnesorgan aufgenommen und an das Nervensystem weitergeleitet wird.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "auge-48",
+          "nr": 48,
+          "question": "Was ist die vordere Augenkammer?",
+          "answer": "Der Raum zwischen Hornhaut und Iris/Linse. Das Licht passiert sie nach dem Eintritt durch die Hornhaut.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-49",
+          "nr": 49,
+          "question": "Was passiert mit dem Licht in der Linse?",
+          "answer": "Strahlen, die senkrecht auftreffen, gehen gerade durch. Die meisten treffen schräg auf und werden gebrochen (Richtungsänderung). So werden die Strahlen auf der Netzhaut gebündelt.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-50",
+          "nr": 50,
+          "question": "Warum steht das Bild auf der Netzhaut auf dem Kopf?",
+          "answer": "Durch die Lichtbrechung in der Linse werden die oberen Strahlen nach unten und die unteren nach oben gelenkt → das Bild wird umgekehrt auf der Netzhaut abgebildet. Das Gehirn dreht es wieder richtig.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-51",
+          "nr": 51,
+          "question": "Wie funktioniert die Akkommodation bei Fernsicht im Detail?",
+          "answer": "Ringmuskel entspannt → Ring hat großen Durchmesser → Linsenbänder werden gespannt → ziehen Linse flach auseinander → geringe Lichtbrechung → Fernes wird scharf.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-52",
+          "nr": 52,
+          "question": "Wie funktioniert die Akkommodation bei Nahsicht im Detail?",
+          "answer": "Ringmuskel zieht sich zusammen → Ring hat kleinen Durchmesser → Linsenbänder werden locker → Linse wölbt sich stark → starke Lichtbrechung → Nahes wird scharf.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-53",
+          "nr": 53,
+          "question": "Warum wird man nach dem Verlassen eines Tunnels kurz geblendet?",
+          "answer": "Die Pupille war im dunklen Tunnel weit geöffnet (Adaptation). Die Iris braucht einige Sekunden, um die Pupille bei Helligkeit zu verengen. In dieser Zeit dringt zu viel Licht ein → Blendung.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-54",
+          "nr": 54,
+          "question": "Welche vier Leistungen erbringt das Gehirn beim Sehen?",
+          "answer": "1. Zusammenführung beider Augenbilder zu einem 3D-Bild\n2. Zusammenmischung von Stäbchen- und Zapfen-Infos zu Farbbildern\n3. Abgleich mit Erinnerungen (Wiedererkennen, Lücken ergänzen)\n4. Abschätzung von Größe und Entfernung",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-55",
+          "nr": 55,
+          "question": "Was ist eine Zerstreuungslinse und wofür wird sie verwendet?",
+          "answer": "Eine konkave (nach innen gewölbte) Linse. Sie streut Lichtstrahlen auseinander. Wird bei Kurzsichtigkeit eingesetzt, um das Bild weiter nach hinten auf die Netzhaut zu verschieben.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-56",
+          "nr": 56,
+          "question": "Was ist eine Sammellinse und wofür wird sie verwendet?",
+          "answer": "Eine konvexe (nach außen gewölbte) Linse. Sie bündelt Lichtstrahlen stärker. Wird bei Weitsichtigkeit eingesetzt, um das Bild weiter nach vorn auf die Netzhaut zu verschieben.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-57",
+          "nr": 57,
+          "question": "Was ist eine Bifokal- oder Gleitsichtbrille?",
+          "answer": "Eine Brille mit zwei verschiedenen Korrekturbereichen: oben für die Ferne, unten für die Nähe. Gleitsichtbrillen haben einen fließenden Übergang zwischen den Bereichen. Wird z.B. bei Kurzsichtigkeit + Altersweitsichtigkeit benötigt.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-58",
+          "nr": 58,
+          "question": "Die drei Schichten des Augapfels – von außen nach innen?",
+          "answer": "1. Lederhaut (außen, weiß, Schutz; vorne = Hornhaut)\n2. Aderhaut (mittig, Blutversorgung; vorne = Iris)\n3. Netzhaut (innen, Sinneszellen: Stäbchen + Zapfen)",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "auge-59",
+          "nr": 59,
+          "question": "Beschrifte den Aufbau des Auges.",
+          "answer": "Links: vordere Augenkammer, Hornhaut, Linse, Pupille, Iris, Linsenbänder, Ringmuskel.\nRechts: Augenmuskel, weiße Augenhaut (Lederhaut), Aderhaut, Netzhaut, Glaskörper, gelber Fleck, Sehnerv, blinder Fleck.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 6.1 (S. 46): Aufbau des Auges"
+        },
+        {
+          "id": "auge-60",
+          "nr": 60,
+          "question": "Was zeigt dieses Bild und wie entsteht das Bild auf der Netzhaut?",
+          "answer": "Der Strahlengang im Auge: Lichtstrahlen werden durch die Linse gebrochen und auf der Netzhaut gebündelt. Das Bild steht auf dem Kopf. Gegenstandsweite, Brennweite und Bildweite sind eingezeichnet.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 6.3 (S. 47): Strahlengang im Auge"
+        },
+        {
+          "id": "auge-61",
+          "nr": 61,
+          "question": "Erkläre anhand des Bildes: Was passiert bei Kurzsichtigkeit und wie wird sie korrigiert?",
+          "answer": "Oben: Augapfel zu lang → Lichtstrahlen treffen sich VOR der Netzhaut → unscharfes Bild.\nUnten: Zerstreuungslinse vor dem Auge → Lichtstrahlen werden gestreut → Brennpunkt verschiebt sich auf die Netzhaut → scharfes Bild.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 6.4 (S. 50): Kurzsichtigkeit + Korrektur"
+        },
+        {
+          "id": "auge-62",
+          "nr": 62,
+          "question": "Erkläre anhand des Bildes: Was passiert bei Weitsichtigkeit und wie wird sie korrigiert?",
+          "answer": "Oben: Augapfel zu kurz → Lichtstrahlen treffen sich erst HINTER der Netzhaut → unscharfes Bild.\nUnten: Sammellinse vor dem Auge → Lichtstrahlen werden stärker gebündelt → Brennpunkt verschiebt sich auf die Netzhaut → scharfes Bild.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 6.5 (S. 50): Weitsichtigkeit + Korrektur"
+        }
+      ]
+    },
+    {
+      "id": "blut-und-infektionsabwehr",
+      "title": "Blut und Infektionsabwehr",
+      "sourceFile": "Karteikarten_Blut_und_Infektionsabwehr.xlsx",
+      "cards": [
+        {
+          "id": "blut-und-infektionsabwehr-1",
+          "nr": 1,
+          "question": "Nenne die vier Hauptbestandteile des Blutes.",
+          "answer": "1. Rote Blutkörperchen (Erythrozyten)\n2. Weiße Blutkörperchen (Leukozyten)\n3. Blutplättchen (Thrombozyten)\n4. Blutplasma (mit Blutserum und Fibrinogen)",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-2",
+          "nr": 2,
+          "question": "Was ist die Hauptaufgabe des Blutes?",
+          "answer": "Transport: Nährstoffe, Sauerstoff, CO₂, Abfallstoffe, Wärme, Hormone, Enzyme, Vitamine, Mineralstoffe.\nAußerdem: Abwehr von Krankheitserregern und Wundverschluss.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-3",
+          "nr": 3,
+          "question": "Was sind Erythrozyten und welche Aufgabe haben sie?",
+          "answer": "Rote Blutkörperchen. Transportieren O₂ zu den Organen und CO₂ zurück zur Lunge. Enthalten Hämoglobin (eisenhaltig), das die Gase bindet.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-4",
+          "nr": 4,
+          "question": "Was ist Hämoglobin und warum ist es wichtig?",
+          "answer": "Eisenhaltiger Farbstoff in den roten Blutkörperchen. Bindet O₂ in der Lunge und gibt ihn an Körperzellen ab. Gibt dem Blut die rote Farbe.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-5",
+          "nr": 5,
+          "question": "Wo werden Erythrozyten gebildet und was ist besonders an ihrem Bau?",
+          "answer": "Im Knochenmark gebildet. Verlieren den Zellkern → in der Mitte eingedellt (bikonkave Form) → vergrößert Oberfläche für Gasaustausch.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-6",
+          "nr": 6,
+          "question": "Was sind Leukozyten und welche Aufgabe haben sie?",
+          "answer": "Weiße Blutkörperchen. Bekämpfen Krankheitserreger und Fremdkörper, bauen abgestorbene Zellen ab. Teil des Immunsystems.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-7",
+          "nr": 7,
+          "question": "Wo werden Leukozyten gebildet?",
+          "answer": "Im Knochenmark und in den Lymphknoten.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-8",
+          "nr": 8,
+          "question": "Welche besondere Fähigkeit haben Leukozyten?",
+          "answer": "Sie können sich gegen den Blutstrom bewegen, um gezielt zu Infektionsherden zu gelangen.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-9",
+          "nr": 9,
+          "question": "Was ist Eiter?",
+          "answer": "Ansammlung abgestorbener weißer Blutkörperchen, die bei der Bekämpfung von Erregern zugrunde gingen.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-10",
+          "nr": 10,
+          "question": "Was passiert, wenn Eiter in die Blutgefäße gelangt?",
+          "answer": "Es kommt zu einer äußerst gefährlichen Blutvergiftung (Sepsis).",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-11",
+          "nr": 11,
+          "question": "Was sind Thrombozyten und welche Aufgabe haben sie?",
+          "answer": "Blutplättchen. Verantwortlich für die Blutgerinnung (Wundverschluss). Im Knochenmark gebildet, ohne Zellkern, kleiner als Erythrozyten.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-12",
+          "nr": 12,
+          "question": "Was ist Blutplasma und woraus besteht es?",
+          "answer": "Flüssiger Bestandteil des Blutes. Besteht aus:\n- Blutserum (wässrige Lösung für Stofftransport)\n- Fibrinogen (für die Blutgerinnung)",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-13",
+          "nr": 13,
+          "question": "Beschreibe die Blutgerinnung in zwei Schritten.",
+          "answer": "1. Beschädigte Zellen setzen Stoffe frei → benachbarte Blutplättchen zerfallen.\n2. Enzyme lassen Fibrinogen zu Fibrin-Fäden gerinnen → diese Fäden dichten die Wunde ab.",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-14",
+          "nr": 14,
+          "question": "Nenne sechs Transportaufgaben des Blutes.",
+          "answer": "1. Nährstoffe von Verdauungsorganen\n2. O₂ von der Lunge zu den Organen\n3. CO₂ zu den Lungen\n4. Abfallstoffe zu Nieren/Leber\n5. Wärme zur Körperoberfläche\n6. Hormone, Enzyme, Vitamine, Mineralstoffe",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-15",
+          "nr": 15,
+          "question": "Ordne zu: (a) O₂-Transport, (b) Immunabwehr, (c) Wundverschluss, (d) Nährstofftransport → Blutbestandteil?",
+          "answer": "(a) Erythrozyten (Hämoglobin)\n(b) Leukozyten\n(c) Thrombozyten + Fibrinogen\n(d) Blutserum/Blutplasma",
+          "section": "BESTANDTEILE DES BLUTES UND DEREN AUFGABEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-16",
+          "nr": 16,
+          "question": "Was sind die häufigsten Todesursachen in Deutschland?",
+          "answer": "Herzerkrankungen (durch Verstopfung der Herzkranzgefäße = Arteriosklerose). Vierthäufigste: Schlaganfall (arteriosklerotisch im Gehirn).",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-17",
+          "nr": 17,
+          "question": "Was ist Arteriosklerose?",
+          "answer": "Ablagerung von Stoffen (v.a. Fette) an den Innenwänden der Arterien → Gefäße verengen sich → Blutfluss gehemmt → Zellen bekommen zu wenig O₂ und können absterben.",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-18",
+          "nr": 18,
+          "question": "Was passiert bei Arteriosklerose der Herzkranzgefäße?",
+          "answer": "Herzmuskel bekommt zu wenig O₂ → Herzinfarkt (Absterben von Herzmuskelzellen).",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-19",
+          "nr": 19,
+          "question": "Was passiert bei Arteriosklerose im Gehirn?",
+          "answer": "Gehirnzellen bekommen zu wenig O₂ → Schlaganfall.",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-20",
+          "nr": 20,
+          "question": "Nenne vier Risikofaktoren für Arteriosklerose.",
+          "answer": "1. Überernährung (v.a. zu viel Fett)\n2. Nikotin (verengt die Adern)\n3. Alkohol\n4. Bewegungsmangel",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-21",
+          "nr": 21,
+          "question": "Was ist eine Zivilisationskrankheit? Nenne Beispiele.",
+          "answer": "Krankheit durch moderne Lebensweise (Ernährung, Bewegungsmangel, Stress, Drogen). Beispiele: Herzinfarkt, Schlaganfall, Arteriosklerose, Bluthochdruck, Diabetes Typ 2.",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-41",
+          "nr": 41,
+          "question": "Wie entsteht eine Infektionskrankheit genau?",
+          "answer": "Wenn Krankheitserreger (z.B. Bakterien, Viren) in den Körper eindringen, sich dort vermehren und Körperzellen oder Gewebe schädigen. Das Immunsystem reagiert und bekämpft Erreger. Dabei entstehen Krankheitsymptome wie Fiber, Husten oder Schmerzen.",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-40",
+          "nr": 40,
+          "question": "Wie steck man sich an?",
+          "answer": "Tröpfcheninfektion, Schmierinfektion, Kontaktinfektion",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-22",
+          "nr": 22,
+          "question": "Nenne fünf Maßnahmen für ein gesundes Herz-Kreislauf-System.",
+          "answer": "1. Gesunde Ernährung\n2. Regelmäßige Bewegung (Ausdauersport)\n3. Frischluft\n4. Stressvermeidung und Ruhephasen\n5. Vermeidung von Drogen",
+          "section": "KRANKHEITEN / ZIVILISATIONSKRANKHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-23",
+          "nr": 23,
+          "question": "Was ist ein Erreger?",
+          "answer": "Ein Mikroorganismus (Bakterium, Virus, Pilz), der eine Krankheit auslösen kann.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-24",
+          "nr": 24,
+          "question": "Was ist der Unterschied zwischen Bakterium und Virus?",
+          "answer": "Bakterien: Einzellige Lebewesen mit eigenem Stoffwechsel, vermehren sich selbst.\nViren: Keine Lebewesen, kein eigener Stoffwechsel, brauchen Wirtszelle zur Vermehrung.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-25",
+          "nr": 25,
+          "question": "Was ist ein Antibiotikum und wogegen wirkt es?",
+          "answer": "Medikament, das Bakterien abtötet oder ihr Wachstum hemmt. Wirkt NUR gegen Bakterien, NICHT gegen Viren.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-26",
+          "nr": 26,
+          "question": "Was ist ein Antigen?",
+          "answer": "Körperfremder Stoff (z.B. auf Erreger-Oberfläche), der vom Immunsystem erkannt wird und eine Immunreaktion auslöst.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-27",
+          "nr": 27,
+          "question": "Was ist ein Antikörper?",
+          "answer": "Eiweiße, die von weißen Blutkörperchen gebildet werden. Binden gezielt an Antigene und machen Erreger unschädlich.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-28",
+          "nr": 28,
+          "question": "Erkläre das Schlüssel-Schloss-Prinzip bei Antigen und Antikörper.",
+          "answer": "Jeder Antikörper passt nur auf ein bestimmtes Antigen (wie Schlüssel ins Schloss). Antikörper bindet an Antigen → Erreger wird markiert → Fresszellen zerstören ihn.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-29",
+          "nr": 29,
+          "question": "Was ist der Unterschied zwischen Epidemie und Pandemie?",
+          "answer": "Epidemie: Krankheit breitet sich in einer Region stark aus.\nPandemie: Krankheit breitet sich über Länder/Kontinente weltweit aus.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-30",
+          "nr": 30,
+          "question": "Was bedeutet Inkubationszeit?",
+          "answer": "Zeitraum zwischen Ansteckung mit einem Erreger und Auftreten der ersten Symptome.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-31",
+          "nr": 31,
+          "question": "Was ist ein Symptom?",
+          "answer": "Ein Krankheitszeichen (z.B. Fieber, Husten, Schmerzen), das der Patient wahrnimmt oder der Arzt feststellt.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-32",
+          "nr": 32,
+          "question": "Was ist eine Diagnose?",
+          "answer": "Feststellung einer Krankheit durch den Arzt auf Basis von Symptomen, Untersuchungen und Tests.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-33",
+          "nr": 33,
+          "question": "Was ist eine Infektionskrankheit? Nenne Beispiele.",
+          "answer": "Krankheit durch Erreger verursacht, übertragbar. Beispiele: Grippe, Tuberkulose, COVID-19, Masern.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-34",
+          "nr": 34,
+          "question": "Was ist eine Erbkrankheit? Nenne Beispiele.",
+          "answer": "Durch Genveränderungen verursacht, vererbbar, NICHT ansteckend. Beispiele: Mukoviszidose, Sichelzellanämie, Hämophilie.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-35",
+          "nr": 35,
+          "question": "Unterscheide: Infektions-, Erb- und Zivilisationskrankheit.",
+          "answer": "Infektionskrankheit: durch Erreger, übertragbar.\nErbkrankheit: genetisch, vererbbar, nicht übertragbar.\nZivilisationskrankheit: durch Lebensstil, nicht übertragbar.",
+          "section": "INFEKTIONSKRANKHEITEN / FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-36",
+          "nr": 36,
+          "question": "Was ist eine Impfung und wie funktioniert sie?",
+          "answer": "Abgeschwächte/abgetötete Erreger werden in den Körper gebracht → Immunsystem bildet Antikörper + Gedächtniszellen → bei echtem Kontakt schnelle Abwehr.",
+          "section": "IMPFUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-37",
+          "nr": 37,
+          "question": "Unterscheide aktive und passive Impfung.",
+          "answer": "Aktiv: Körper bildet selbst Antikörper → langfristiger Schutz, braucht Zeit.\nPassiv: Fertige Antikörper werden gespritzt → sofortiger, aber kurzfristiger Schutz.",
+          "section": "IMPFUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-38",
+          "nr": 38,
+          "question": "Nenne drei Vorteile von Impfungen.",
+          "answer": "1. Schutz vor schweren/tödlichen Krankheiten\n2. Herdenimmunität (Schutz für Nicht-Impfbare)\n3. Ausrottung von Krankheiten möglich (z.B. Pocken)",
+          "section": "IMPFUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-39",
+          "nr": 39,
+          "question": "Nenne mögliche Risiken von Impfungen.",
+          "answer": "Rötung an Einstichstelle, leichtes Fieber, Abgeschlagenheit. Sehr selten: allergische Reaktionen. Nutzen überwiegt das Risiko deutlich.",
+          "section": "IMPFUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-40",
+          "nr": 40,
+          "question": "Was ist der Unterschied zwischen Arterien und Venen?",
+          "answer": "Arterien: Blut VOM Herzen WEG, dicke elastische Wände (hoher Druck).\nVenen: Blut ZUM Herzen HIN, dünnere Wände, teils Venenklappen.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-41",
+          "nr": 41,
+          "question": "Was sind Kapillaren und welche Funktion haben sie?",
+          "answer": "Kleinste Blutgefäße (Haargefäße). So dünn, dass Erythrozyten gerade durchpassen. Hier findet der Stoffaustausch statt: O₂/Nährstoffe raus, CO₂/Abfallstoffe rein.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-42",
+          "nr": 42,
+          "question": "Warum haben Arterien dicke, elastische Wände?",
+          "answer": "Um dem hohen Druck des gepumpten Blutes standzuhalten und durch Elastizität das Blut weiterzutreiben.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-43",
+          "nr": 43,
+          "question": "Wozu dienen Venenklappen?",
+          "answer": "Verhindern das Zurückfließen des Blutes (geringer Druck, teils gegen Schwerkraft).",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-44",
+          "nr": 44,
+          "question": "Erkläre den doppelten Blutkreislauf.",
+          "answer": "1. Lungenkreislauf (klein): Herz → Lunge → Herz (Gasaustausch)\n2. Körperkreislauf (groß): Herz → Organe → Herz (Versorgung + Entsorgung)",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-45",
+          "nr": 45,
+          "question": "Beschreibe den Lungenkreislauf.",
+          "answer": "Rechte Herzkammer → Lungenarterien → Lunge (Gasaustausch: CO₂ raus, O₂ rein) → Lungenvenen → linke Vorkammer.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-46",
+          "nr": 46,
+          "question": "Beschreibe den Körperkreislauf.",
+          "answer": "Linke Herzkammer → Aorta → Arterien → Kapillaren (Stoffaustausch) → Venen → obere/untere Hohlvene → rechte Vorkammer.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-47",
+          "nr": 47,
+          "question": "Was transportiert die Lungenvene?",
+          "answer": "Sauerstoffreiches (helles) Blut! Obwohl Vene, führt sie O₂-reiches Blut von der Lunge zum Herzen.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-48",
+          "nr": 48,
+          "question": "Was transportiert die Lungenarterie?",
+          "answer": "Sauerstoffarmes (dunkles) Blut! Obwohl Arterie, führt sie O₂-armes Blut vom Herzen zur Lunge.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-49",
+          "nr": 49,
+          "question": "Was ist der Pfortaderkreislauf?",
+          "answer": "Blut aus Magen/Dünndarm/Milz → Pfortader → Leber (Nährstoffumbau, Giftabbau zu z.B. Harnstoff) → Lebervene → Hohlvene → Herz.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-50",
+          "nr": 50,
+          "question": "Was ist die Aorta?",
+          "answer": "Größte Arterie. Führt O₂-reiches Blut von der linken Herzkammer in den Körperkreislauf. Halsschlagadern zweigen hier ab.",
+          "section": "BLUTKREISLAUF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-51",
+          "nr": 51,
+          "question": "Was für ein Muskel ist das Herz?",
+          "answer": "Ein Hohlmuskel – Muskel mit großen Hohlräumen im Inneren.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-52",
+          "nr": 52,
+          "question": "Aus welchen vier Räumen besteht das Herz?",
+          "answer": "Rechte Vorkammer, rechte Herzkammer, linke Vorkammer, linke Herzkammer. Getrennt durch die Herzscheidewand.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-53",
+          "nr": 53,
+          "question": "Welche Herzhälfte versorgt welchen Kreislauf?",
+          "answer": "Rechte Hälfte → Lungenkreislauf\nLinke Hälfte → Körperkreislauf",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-54",
+          "nr": 54,
+          "question": "Was sind Herzklappen und wozu dienen sie?",
+          "answer": "Ventile im Herzen, die dafür sorgen, dass Blut nur in eine Richtung fließt.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-55",
+          "nr": 55,
+          "question": "Welche zwei Arten von Herzklappen gibt es?",
+          "answer": "1. Segelklappen: zwischen Vorhof und Kammer\n2. Taschenklappen: zwischen Kammer und Arterie",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-56",
+          "nr": 56,
+          "question": "Beschreibe den Weg des Blutes durch das Herz (5 Schritte).",
+          "answer": "1. Blut fließt in den Vorhof\n2. Vorhof kontrahiert → Blut durch Segelklappe in Kammer\n3. Kammer kontrahiert → Segelklappen zu, Blut durch Taschenklappen in Arterien\n4. Vorhof entspannt, saugt neues Blut an\n5. Kammer entspannt → Taschenklappen schließen (= Herztöne)",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-57",
+          "nr": 57,
+          "question": "Wodurch entstehen die Herztöne?",
+          "answer": "Durch das kräftige Zusammenschlagen der Taschenklappen bei der Entspannung der Herzkammer.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-58",
+          "nr": 58,
+          "question": "Wie oft schlägt das Herz pro Minute?",
+          "answer": "Ca. 70-mal (abhängig von Aktivität, Alter, Gesundheit).",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-59",
+          "nr": 59,
+          "question": "Was ist der Puls?",
+          "answer": "Spürbare Druckwelle, wenn die linke Herzkammer Blut in die Aorta pumpt. Fühlbar am Handgelenk und an der Halsschlagader.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-60",
+          "nr": 60,
+          "question": "Was sind Herzkranzgefäße?",
+          "answer": "Blutgefäße auf der Herzoberfläche, die den Herzmuskel selbst mit O₂ und Energie versorgen. Verstopfung → Herzinfarkt.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-61",
+          "nr": 61,
+          "question": "Wie schnell fließt das Blut?",
+          "answer": "Ca. ¼ m/sec. Ein kompletter Kreislauf dauert weniger als 30 Sekunden.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-62",
+          "nr": 62,
+          "question": "Warum hat der Mensch zwei Kreisläufe und vier Herzkammern?",
+          "answer": "Zwei Kreisläufe trennen O₂-reiches von O₂-armem Blut → effizientere Versorgung. Vier Kammern ermöglichen gleichzeitigen Betrieb beider Kreisläufe mit unterschiedlichem Druck.",
+          "section": "DAS HERZ",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "blut-und-infektionsabwehr-63",
+          "nr": 63,
+          "question": "Benenne die drei zellulären Bestandteile des Blutes auf dem Bild.",
+          "answer": "Rote Blutkörperchen (kleine Scheiben, zahlreich)\nWeiße Blutkörperchen (größer, selten)\nBlutplättchen (sehr kleine Fragmente)",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 4.1 (S. 27): Blut unter dem Mikroskop"
+        },
+        {
+          "id": "blut-und-infektionsabwehr-64",
+          "nr": 64,
+          "question": "Was zeigt dieses Bild über die Größe der Erythrozyten?",
+          "answer": "Erythrozyten in einer Kapillare – sie passen gerade noch durch. Zeigt, wie dünn Kapillaren sind.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 4.2 (S. 27): Rote Blutkörperchen in Kapillare"
+        },
+        {
+          "id": "blut-und-infektionsabwehr-65",
+          "nr": 65,
+          "question": "Beschrifte den Blutkreislauf.",
+          "answer": "Obere/untere Hohlvene, Lungenarterie, Lungenvene, Aorta, Lunge, Herz, Leber, Darm, Pfortader, Lebervene, Leberarterie.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 4.3 (S. 30): Blutkreislauf von vorne"
+        },
+        {
+          "id": "blut-und-infektionsabwehr-66",
+          "nr": 66,
+          "question": "Beschrifte den Aufbau des Herzens.",
+          "answer": "Rechte/linke Vorkammer, rechte/linke Herzkammer, Aorta, Lungenarterie, Lungenvene, obere Hohlvene, Segelklappe, Aortenklappe (Taschenklappe), Herzscheidewand.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 4.4 (S. 32): Aufbau des Herzens"
+        }
+      ]
+    },
+    {
+      "id": "geo-trockengebiete-polarregion",
+      "title": "Geo Trockengebiete Polarregion",
+      "sourceFile": "Karteikarten_Geo_Trockengebiete_Polarregion.xlsx",
+      "cards": [
+        {
+          "id": "geo-trockengebiete-polarregion-1",
+          "nr": 1,
+          "question": "Was ist eine Wüste?",
+          "answer": "Ein Gebiet mit spärlichem oder fehlendem Pflanzenbewuchs. Ursache kann große Trockenheit (Trockenwüste) oder extreme Kälte (Kälte-/Eiswüste) sein.",
+          "section": "THEMA 2: TROCKENGEBIETE – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-2",
+          "nr": 2,
+          "question": "Wie viel der Erdoberfläche bedecken Wüsten?",
+          "answer": "Ca. ein Fünftel (20 %) der gesamten Landfläche der Erde.",
+          "section": "THEMA 2: TROCKENGEBIETE – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-3",
+          "nr": 3,
+          "question": "Wo liegen die großen Trockenwüsten der Erde?",
+          "answer": "Vor allem in der Nähe der Wendekreise (subtropische Hochdruckgebiete): Sahara, Arabische Wüste, australische Wüsten. Aber auch als Binnenwüsten (Gobi, Taklimakan), Regenschattenwüsten (Mojave) und Küstenwüsten (Namib, Atacama).",
+          "section": "THEMA 2: TROCKENGEBIETE – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-4",
+          "nr": 4,
+          "question": "Nenne vier Ursachen für die Entstehung von Trockenwüsten.",
+          "answer": "1. Wüsten an den Wendekreisen: regenarme Zonen (Passatkreislauf)\n2. Binnenwüsten: große Entfernung zum Meer (z.B. Gobi, Taklimakan)\n3. Regenschattenwüsten: Feuchtigkeit regnet an Gebirgen ab (z.B. Mojave)\n4. Küstenwüsten: kalte Meeresströmungen → Hochnebel statt Regen (z.B. Namib, Atacama)",
+          "section": "WÜSTENTYPEN UND WÜSTENARTEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-5",
+          "nr": 5,
+          "question": "Welche Wüstenlandschaftsformen gibt es?",
+          "answer": "Sandwüste (Erg): Sanddünen, nur ca. 20% der Sahara!\nSteinwüste (Hammada): kahle Felsflächen\nKieswüste (Reg/Serir): kies- und geröllbedeckt\nSalzwüste: ausgetrocknete Salzseen\n→ Wüste ist nicht gleich Wüste!",
+          "section": "WÜSTENTYPEN UND WÜSTENARTEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-6",
+          "nr": 6,
+          "question": "Was ist Verwitterung in Bezug auf Wüsten?",
+          "answer": "Der Zerfall von Gestein durch extreme Temperaturschwankungen zwischen Tag und Nacht. Das Gestein dehnt sich bei Hitze aus und zieht sich bei Kälte zusammen → Risse → Zerfall zu Sand und Kies.",
+          "section": "WÜSTENTYPEN UND WÜSTENARTEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-7",
+          "nr": 7,
+          "question": "Was sind Wadis?",
+          "answer": "Trockene Flusstäler in der Wüste, die nur bei seltenen Regenfällen kurzfristig Wasser führen. Das Wasser fließt schnell ab und kann nicht im ausgedörrten Boden versickern.",
+          "section": "WÜSTENTYPEN UND WÜSTENARTEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-8",
+          "nr": 8,
+          "question": "Wie passen sich Pflanzen an Trockenheit an? Nenne mindestens vier Strategien.",
+          "answer": "1. Tiefe Wurzeln (Grundwasser erreichen)\n2. Kleine/keine Blätter (weniger Verdunstung)\n3. Wasserspeicherung in Stamm/Blättern (Sukkulenten, Kakteen)\n4. Dornen statt Blätter\n5. Schnelle Keimung nach Regen (Wüstenblüte)\n6. Wachsschicht auf Blättern",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-9",
+          "nr": 9,
+          "question": "Wie passen sich Tiere an die Wüste an? Nenne Beispiele.",
+          "answer": "Nachtaktiv (Hitze meiden): Fennek (Wüstenfuchs) jagt nachts\nGroße Ohren: Wärmeableitung + gutes Hören (Fennek)\nWenig Wasserbedarf: Kamel speichert Fett im Höcker\nBau im Boden: kühler Unterschlupf tagsüber\nHelle Färbung: reflektiert Sonnenstrahlen",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-10",
+          "nr": 10,
+          "question": "Was ist Nomadismus?",
+          "answer": "Lebensweise von Wanderhirten, die mit ihren Herden (Kamele, Ziegen) von Weideplatz zu Weideplatz ziehen. Beispiel: Tuareg in der Sahara. Oasen dienen als wichtige Rastplätze.",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-11",
+          "nr": 11,
+          "question": "Was ist eine Oase?",
+          "answer": "Ein Gebiet mit Wasservorkommen und reichem Pflanzenwuchs, umgeben von Wüste oder Halbwüste. Wichtigster Stützpunkt für Menschen in der Wüste.",
+          "section": "WASSERFÖRDERUNG UND BEWÄSSERUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-12",
+          "nr": 12,
+          "question": "Was ist fossiles Wasser?",
+          "answer": "Uraltes Grundwasser, das vor Jahrtausenden (z.B. in Eiszeiten) entstanden ist und sich heute kaum noch erneuert. Wird z.B. in der Sahara durch tiefe Brunnen gefördert. Ist eine begrenzte Ressource!",
+          "section": "WASSERFÖRDERUNG UND BEWÄSSERUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-13",
+          "nr": 13,
+          "question": "Was sind \"neue Oasen\"?",
+          "answer": "Künstlich bewässerte Anbaugebiete in der Wüste, die durch tiefe Brunnenbohrungen und Pipelines mit (oft fossilem) Wasser versorgt werden.",
+          "section": "WASSERFÖRDERUNG UND BEWÄSSERUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-50",
+          "nr": 50,
+          "question": "Welche Schutzmaßnahmen helfen in der Polarregion?",
+          "answer": "Schutzgebiete, Fangquoten, Umweltabkommen, Begrenzung von Rohstoffförderung und Tourismus sowie internationale Zusammenarbeit.",
+          "section": "WASSERFÖRDERUNG UND BEWÄSSERUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-14",
+          "nr": 14,
+          "question": "Nenne Bewässerungsmethoden in Trockengebieten.",
+          "answer": "Furchenbewässerung: Wasser in Gräben geleitet (hoher Wasserverlust)\nBeregnungsanlagen: Kreisregner (viel Verdunstung)\nTröpfchenbewässerung: Wasser direkt an die Wurzeln → sparsamste Methode!\nQanate/Foggaras: unterirdische Wasserkanäle (traditionell)",
+          "section": "WASSERFÖRDERUNG UND BEWÄSSERUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-15",
+          "nr": 15,
+          "question": "Warum ist die Tröpfchenbewässerung besonders wirkungsvoll?",
+          "answer": "Das Wasser wird direkt und tropfenweise an die Pflanzenwurzeln geleitet → kaum Verdunstung, kaum Wasserverlust. Beste Methode für wasserarme Gebiete.",
+          "section": "WASSERFÖRDERUNG UND BEWÄSSERUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-16",
+          "nr": 16,
+          "question": "Was ist Stockwerkanbau in der Oase?",
+          "answer": "Verschiedene Pflanzen wachsen übereinander:\nOben: Dattelpalmen (Schattenspender + wertvollste Ernte)\nMitte: Obstbäume\nUnten: Gemüse/Getreide\nSchützt den Boden vor Austrocknung und nutzt die Fläche optimal.",
+          "section": "LANDWIRTSCHAFT IN TROCKENGEBIETEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-17",
+          "nr": 17,
+          "question": "Was ist Desertifikation?",
+          "answer": "Die vom Menschen verursachte Ausbreitung von Wüstengebieten. Ursachen: Überweidung, Abholzung, falsche Bewässerung (Versalzung), Klimawandel. Fruchtbarer Boden wird unwiderruflich zu Wüste.",
+          "section": "DESERTIFIKATION UND SCHUTZMASSNAHMEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-18",
+          "nr": 18,
+          "question": "Nenne Schutzmaßnahmen gegen Desertifikation.",
+          "answer": "Aufforstung (z.B. \"Grüne Mauer\" in Afrika)\nNachhaltige Bewässerung (Tröpfchenbewässerung)\nÜberweidung stoppen (Weidewechsel)\nWindschutzstreifen aus Bäumen\nTraditionelle Anbaumethoden nutzen\nBodenabdeckung gegen Austrocknung",
+          "section": "DESERTIFIKATION UND SCHUTZMASSNAHMEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-19",
+          "nr": 19,
+          "question": "Definiere: Stockwerkanbau",
+          "answer": "Anbauform mit verschiedenen Pflanzen in verschiedenen Höhen auf derselben Fläche (Palmen oben, Obst mittig, Gemüse unten). Schützt Boden, nutzt Wasser und Fläche optimal.",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-20",
+          "nr": 20,
+          "question": "Definiere: Verwitterung",
+          "answer": "Zerfall von Gestein durch natürliche Einflüsse (Temperaturwechsel, Wasser, Wind). In der Wüste v.a. durch extreme Tag-Nacht-Temperaturschwankungen.",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-21",
+          "nr": 21,
+          "question": "Definiere: Nomadismus",
+          "answer": "Wanderhirtentum – Menschen ziehen mit ihren Herden von Weideplatz zu Weideplatz.",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-22",
+          "nr": 22,
+          "question": "Definiere: indigene Bevölkerung",
+          "answer": "Ureinwohner einer Region, die dort seit Jahrtausenden leben. Beispiel Wüste: Tuareg (Sahara), Beduinen (arabische Wüste), Aborigines (Australien).",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-23",
+          "nr": 23,
+          "question": "Definiere: fossiles Wasser",
+          "answer": "Uraltes, nicht erneuerbares Grundwasser. Wird durch tiefe Brunnen gefördert. Begrenzte Ressource.",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-24",
+          "nr": 24,
+          "question": "Definiere: neue Oasen",
+          "answer": "Künstlich bewässerte Anbaugebiete in der Wüste, versorgt durch Brunnen und Pipelines.",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-25",
+          "nr": 25,
+          "question": "Definiere: Pipeline",
+          "answer": "Rohrleitung zum Transport von Wasser, Öl oder Gas über weite Strecken. In der Wüste: Wasserpipelines für künstliche Oasen.",
+          "section": "FACHBEGRIFFE TROCKENGEBIETE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-26",
+          "nr": 26,
+          "question": "Wo liegen die Polarregionen und was begrenzt sie?",
+          "answer": "Jenseits der Polarkreise (66,5° N und 66,5° S). Nördliches Polargebiet (Arktis) um den Nordpol, südliches (Antarktis) um den Südpol. Wichtige Landmassen im Norden: Kanada, Russland, Grönland.",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-45",
+          "nr": 45,
+          "question": "Was bedeutet Fischereiwirtschaft in der Polarregion?",
+          "answer": "Fischereiwirtschaft ist der Fang und die Verarbeitung von Fischen und anderen Meerestieren. In den Polarregionen ist sie ein wichtiger Wirtschaftszweig, aber Überfischung kann die empfindlichen Ökosysteme gefährden.",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-46",
+          "nr": 46,
+          "question": "Warum ist die Fischereiwirtschaft in der Polarregion problematisch?",
+          "answer": "Weil Überfischung die Bestände verringert und das empfindliche Nahrungsnetz der Polarregion stören kann. Deshalb sind Schutzabkommen und Fangquoten wichtig.",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-47",
+          "nr": 47,
+          "question": "Wie passen sich indigene Völker an das Leben in der Polarregion an?",
+          "answer": "Sie passen Kleidung, Ernährung, Wohnweise und Fortbewegung an Kälte, Schnee und Eis an. Beispiele sind Inuit, Samen und Nenzen.",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-48",
+          "nr": 48,
+          "question": "Welche Schutzmaßnahmen helfen in der Polarregion?",
+          "answer": "Schutzgebiete, Fangquoten, Umweltabkommen, Begrenzung von Rohstoffförderung und Tourismus sowie internationale Zusammenarbeit.",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-49",
+          "nr": 49,
+          "question": "Welche Rolle spielt der Tourismus in der Polarregion?",
+          "answer": "Touristen reisen z. B. mit Expeditionsschiffen in Arktis und Antarktis. Der Tourismus bringt Geld, kann aber Tiere stören, Müll verursachen und die empfindliche Natur belasten.",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-27",
+          "nr": 27,
+          "question": "Was ist der Unterschied zwischen Arktis und Antarktis?",
+          "answer": "Arktis (Nordpol): vor allem gefrorenes Meer (Packeis). Von Kontinenten umgeben. Durchschnittstemperatur am Pol: ca. –18°C.\nAntarktis (Südpol): eisüberzogenes Festland, eigener Kontinent. Bis 5 km dicke Eisschicht. Durchschnittstemperatur am Pol: ca. –49°C → viel kälter!",
+          "section": "THEMA 3: POLARREGION – LAGEBESCHREIBUNG & KLIMA",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-28",
+          "nr": 28,
+          "question": "Was ist der Polartag?",
+          "answer": "Zeitraum von 24 Stunden und MEHR, in dem die Sonne nicht untergeht (ununterbrochen hell). Am Pol dauert er ein halbes Jahr! Ursache: geneigte Erdachse → Pol ist der Sonne ein halbes Jahr zugewandt.",
+          "section": "POLARTAG UND POLARNACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-29",
+          "nr": 29,
+          "question": "Was ist die Polarnacht?",
+          "answer": "Zeitraum von 24 Stunden und MEHR, in dem die Sonne nicht aufgeht (ununterbrochen dunkel). Am Pol dauert sie ein halbes Jahr! Belastend: Depressionen, Vitamin-D-Mangel, Schlafstörungen.",
+          "section": "POLARTAG UND POLARNACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-30",
+          "nr": 30,
+          "question": "Wie beeinflusst der Polartag/die Polarnacht das Leben der Menschen?",
+          "answer": "Polarnacht: Arbeiten bei künstlichem Licht, hoher Energieverbrauch, seelische Belastungen/Depressionen, Vitamin-D-Mangel, gestörter Schlafrhythmus.\nPolartag: biologischer Rhythmus wird beeinträchtigt, Schlafstörungen.",
+          "section": "POLARTAG UND POLARNACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-31",
+          "nr": 31,
+          "question": "Warum liegen die Polarkreise bei genau 66,5°?",
+          "answer": "90° (Pol) minus 23,5° (Neigung der Erdachse) = 66,5°. Die Schrägstellung der Erdachse bestimmt, ab welchem Breitengrad Polartag und Polarnacht auftreten.",
+          "section": "POLARTAG UND POLARNACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-32",
+          "nr": 32,
+          "question": "Wie passen sich Tiere an die Polarregion an?",
+          "answer": "Eisbär (Arktis): weißes Fell (Tarnung), dicke Fettschicht + Fell (Isolation), jagt Robben auf Packeis.\nPinguine (Antarktis): Gruppen für Wärme, Fettschicht, Gefieder.\nAllgemein: wenige Arten, aber gut angepasst.",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-33",
+          "nr": 33,
+          "question": "Wie passen sich Pflanzen an die Polarregion an?",
+          "answer": "Kurze Vegetationszeit (Temperatur >5°C nur wenige Monate). Pflanzen wachsen niedrig/bodennah (Schutz vor Wind). Moose, Flechten, Gräser. Bäume nur in der Übergangszone (Tundra/Taiga).",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-34",
+          "nr": 34,
+          "question": "Was ist Permafrost?",
+          "answer": "Boden, dessen tiefe Schichten ganzjährig gefroren sind. Nur die dünnen oberen Schichten tauen im kurzen Sommer auf. Durch Klimawandel taut Permafrost zunehmend auf → Probleme.",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-35",
+          "nr": 35,
+          "question": "Welche Probleme verursacht Permafrostboden?",
+          "answer": "Bauwerke sacken ein, wenn Permafrost taut → Gebäude auf Stelzen nötig.\nStraßen und Pipelines verbiegen sich.\nBei Tauen: Methan wird freigesetzt → verstärkt Klimawandel.\nBodeninstabilität → Erdrutsche.\nBeispiel: Transalaska-Pipeline musste aufgeständert werden.",
+          "section": "ANPASSUNG VON PFLANZEN, TIEREN UND MENSCHEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-36",
+          "nr": 36,
+          "question": "Welche Bodenschätze gibt es in den Polarregionen?",
+          "answer": "Erdöl, Erdgas, Kohle, Diamanten, seltene Erden, Mineralien. Beispiel: Transalaska-Pipeline transportiert Erdöl. Förderung umstritten wegen Umweltgefahren.",
+          "section": "FISCHEREI, BODENSCHÄTZE, FORSCHUNG, TOURISMUS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-37",
+          "nr": 37,
+          "question": "Warum ist die Polarregion für die Klimaforschung wichtig?",
+          "answer": "Eisbohrkerne: Luftblasen im Eis liefern Daten über das Klima vergangener Jahrtausende.\nKlimawandel zeigt sich hier besonders stark (Eisschmelze, Permafrost taut).\nForschungsstationen in der Antarktis (z.B. Neumayer-Station, Deutschland).",
+          "section": "FISCHEREI, BODENSCHÄTZE, FORSCHUNG, TOURISMUS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-38",
+          "nr": 38,
+          "question": "Historisch: Wer erreichte den Südpol zuerst?",
+          "answer": "Roald Amundsen (Norweger) erreichte den Südpol am 14. Dezember 1911 – fünf Wochen vor seinem Konkurrenten Robert Scott (Brite). Scott und seine Begleiter kamen auf dem Rückweg tragisch ums Leben.",
+          "section": "FISCHEREI, BODENSCHÄTZE, FORSCHUNG, TOURISMUS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-39",
+          "nr": 39,
+          "question": "Welche Schutzmaßnahmen gibt es für die Polarregionen?",
+          "answer": "Antarktisvertrag (1959): Verbot militärischer Nutzung, nur Forschung erlaubt, Umweltschutz.\nArktischer Rat: Zusammenarbeit der Anrainerstaaten.\nFangquoten für Fische und Wale.\nEinschränkung des Tourismus.\nSchutzgebiete einrichten.",
+          "section": "SCHUTZMASSNAHMEN POLARREGION",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-40",
+          "nr": 40,
+          "question": "Welche Eisformen gibt es in den Polargebieten?",
+          "answer": "Aus Salzwasser: Packeis (gefrorenes Meer), Treibeis (losgelöste Schollen).\nAus Süßwasser: Inlandeis (dicke Eismassen auf Land), Schelfeis (Eisplatten auf dem Meer, vom Land aus), Gletscher, Eisberge (abgebrochenes Schelfeis).",
+          "section": "SCHUTZMASSNAHMEN POLARREGION",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-41",
+          "nr": 41,
+          "question": "Definiere: Polartag",
+          "answer": "Zeitraum ≥24 Stunden, in dem die Sonne nicht untergeht. Am Pol: halbes Jahr. Ursache: geneigte Erdachse.",
+          "section": "FACHBEGRIFFE POLARREGION",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-42",
+          "nr": 42,
+          "question": "Definiere: Polarnacht",
+          "answer": "Zeitraum ≥24 Stunden, in dem die Sonne nicht aufgeht. Am Pol: halbes Jahr.",
+          "section": "FACHBEGRIFFE POLARREGION",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-43",
+          "nr": 43,
+          "question": "Definiere: indigene Bevölkerung (Polarregion)",
+          "answer": "Ureinwohner: Inuit (Kanada/Grönland), Samen (Skandinavien), Nenzen (Sibirien). Traditionell: Jagd, Fischfang, Rentierzucht, Kleidung aus Tierfellen.",
+          "section": "FACHBEGRIFFE POLARREGION",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-44",
+          "nr": 44,
+          "question": "Definiere: Permafrost",
+          "answer": "Dauerhaft (ganzjährig) gefrorener Boden. Nur obere Schicht taut im Sommer. Klimawandel → Permafrost taut → Methanfreisetzung, instabiler Boden.",
+          "section": "FACHBEGRIFFE POLARREGION",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-45",
+          "nr": 45,
+          "question": "Was ist der Tropische Regenwald?",
+          "answer": "Vegetationszone mit artenreichem, immergrünem Wald bei ganzjährig hohen Temperaturen (ca. 25°C) und hohen Niederschlägen. Liegt in der Äquatorzone.",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-46",
+          "nr": 46,
+          "question": "Was ist Tageszeitenklima?",
+          "answer": "Im Regenwald bestimmen die Tageszeiten (nicht die Jahreszeiten) das Wetter: Vormittags Verdunstung, nachmittags heftige Regengüsse. Tag und Nacht je ca. 12 Stunden, ganzjährig. Gegensatz: unser Jahreszeitenklima.",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-47",
+          "nr": 47,
+          "question": "Was ist der Stockwerksbau im Regenwald?",
+          "answer": "Verschiedene \"Stockwerke\" des Bewuchses:\nGanz oben: Baumriesen (Urwaldriesen, bis 60m)\nKronendach: dichte Baumkronen\nMittlere Schicht: kleinere Bäume\nStrauchschicht\nKrautschicht/Bodennähe\nJedes Stockwerk hat eigene Tier- und Pflanzenarten.",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-48",
+          "nr": 48,
+          "question": "Warum ist der Regenwald ein \"verletzlicher Gigant\"?",
+          "answer": "Trotz üppigem Bewuchs: Nährstoffe liegen nur in einer sehr dünnen Bodenschicht. Wird der Wald gerodet, wird diese Schicht fortgespült → Boden unfruchtbar → Wald verloren. Der Nährstoffkreislauf ist empfindlich!",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-49",
+          "nr": 49,
+          "question": "Was ist Wanderfeldbau und warum ist er problematisch?",
+          "answer": "Traditionelle Landwirtschaft: Wald wird brandgerodet, Feld 1-2 Jahre bewirtschaftet (Erträge sinken schnell!), dann aufgegeben, neues Stück gerodet.\nProbleme: Brandrodung zerstört Natur, Sekundärwald hat weniger Artenreichtum als Primärwald, bei wachsender Bevölkerung zerstört es den Regenwald.",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-50",
+          "nr": 50,
+          "question": "Was ist Plantagenwirtschaft?",
+          "answer": "Großflächiger Anbau eines einzelnen Produkts (Monokultur) für den Export (cash crops). Produkte: Bananen, Palmöl, Soja, Kakao, Kaffee. Probleme: Regenwald wird gerodet, niedrige Löhne für Arbeiter (nur ca. 5% des Verkaufspreises), kleinbäuerliche Betriebe können nicht konkurrieren.",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-51",
+          "nr": 51,
+          "question": "Warum ist der Regenwald für die ganze Welt wichtig?",
+          "answer": "1. Sichert das Weltklima und wirkt gegen Treibhauseffekt/Klimawandel (bindet CO₂)\n2. Unermessliche Artenvielfalt (ca. 75 Tierarten pro Hektar!)\n3. Jeder Hektar hat andere Arten → wird auch nur eine kleine Fläche abgeholzt, verschwinden Arten für immer.",
+          "section": "ERGÄNZEND: TROPISCHER REGENWALD (aus dem PDF)",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-52",
+          "nr": 52,
+          "question": "Vergleiche Arktis und Antarktis in einer Tabelle.",
+          "answer": "ARKTIS: gefrorenes Meer, Pol auf Meereshöhe, Eisdecke ca. 4m, Ø-Temperatur am Pol ca. -18°C, von Kontinenten umgeben, Grönland gehört dazu, Eisbären.\nANTARKTIS: eisüberzogenes Festland (eigener Kontinent), Pol 2800m über Meer, Eisschicht bis 5 km dick, Ø-Temperatur am Pol ca. -49°C, von Meer umgeben, Pinguine.",
+          "section": "ERGÄNZEND: ARKTIS VS. ANTARKTIS DETAILVERGLEICH",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-53",
+          "nr": 53,
+          "question": "Ordne zu: Eisbär und Pinguin – welcher Pol?",
+          "answer": "Eisbär → Nordpolargebiet (Arktis)\nPinguin → Südpolargebiet (Antarktis)\nSie begegnen sich NIE in der Natur!",
+          "section": "ERGÄNZEND: ARKTIS VS. ANTARKTIS DETAILVERGLEICH",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-54",
+          "nr": 54,
+          "question": "Was ist die Transalaska-Pipeline und welche Probleme gab es?",
+          "answer": "Rohrleitung für Erdöltransport quer durch Alaska. Probleme: Permafrostboden → Pipeline musste aufgeständert (auf Stelzen) gebaut werden, damit die Wärme des Öls den Boden nicht auftaut. Umweltgefahren bei Lecks in empfindlicher Natur.",
+          "section": "ERGÄNZEND: ARKTIS VS. ANTARKTIS DETAILVERGLEICH",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geo-trockengebiete-polarregion-55",
+          "nr": 55,
+          "question": "Was ist die Vegetationszeit?",
+          "answer": "Die Zeit im Jahr, in der die Durchschnittstemperatur 5°C übersteigt und Pflanzen wachsen können. In der Polarregion nur wenige Monate (z.B. Vardø, Norwegen: Juni–September).",
+          "section": "ERGÄNZEND: ARKTIS VS. ANTARKTIS DETAILVERGLEICH",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        }
+      ]
+    },
+    {
+      "id": "geographie-die-erde",
+      "title": "Geographie Die Erde",
+      "sourceFile": "Karteikarten_Geographie_Die_Erde.xlsx",
+      "cards": [
+        {
+          "id": "geographie-die-erde-1",
+          "nr": 1,
+          "question": "Was ist ein Planet?",
+          "answer": "Ein großer Himmelskörper, der sich auf einer Umlaufbahn um die Sonne (oder einen anderen Stern) bewegt. Planeten leuchten NICHT aus eigener Kraft.",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-2",
+          "nr": 2,
+          "question": "Was ist ein Stern? Leuchtet er aus eigener Kraft?",
+          "answer": "Ein Stern ist ein sehr heißer, leuchtender Himmelskörper. Ja, er leuchtet aus eigener Kraft (z.B. unsere Sonne mit ca. 5600°C Oberflächentemperatur).",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-3",
+          "nr": 3,
+          "question": "Woraus besteht unser Sonnensystem?",
+          "answer": "Aus der Sonne, den acht Planeten und weiteren Himmelskörpern (z.B. Monden). Die Planeten bewegen sich auf Umlaufbahnen um die Sonne.",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-4",
+          "nr": 4,
+          "question": "Nenne die acht Planeten unseres Sonnensystems in der Reihenfolge von der Sonne aus.",
+          "answer": "1. Merkur, 2. Venus, 3. Erde, 4. Mars (= innere Planeten)\n5. Jupiter, 6. Saturn, 7. Uranus, 8. Neptun (= äußere Planeten/Gasriesen)\nMerksatz: Mein Vater Erklärt Mir Jeden Sonntag Unseren Nachthimmel.",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-5",
+          "nr": 5,
+          "question": "Was ist der Unterschied zwischen inneren und äußeren Planeten?",
+          "answer": "Innere Planeten (Merkur–Mars): kleiner, aus Gestein.\nÄußere Planeten (Jupiter–Neptun): riesig, sog. Gasriesen, wenig festes Material.",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-6",
+          "nr": 6,
+          "question": "Was ist die Erdachse?",
+          "answer": "Eine gedachte Linie, die vom Nordpol zum Südpol verläuft. Die Erde dreht sich um diese Achse. Sie ist um 23,5° geneigt (Schrägstellung).",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-7",
+          "nr": 7,
+          "question": "Was ist die Erdrotation?",
+          "answer": "Die Drehung der Erde um ihre eigene Achse. Eine vollständige Drehung dauert 24 Stunden. Sie verursacht den Wechsel von Tag und Nacht.",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-8",
+          "nr": 8,
+          "question": "Was ist die Umlaufbahn (Erdrevolution)?",
+          "answer": "Die Bahn, auf der die Erde die Sonne umkreist. Ein kompletter Umlauf dauert ca. 365 Tage und 6 Stunden (= 1 Jahr).",
+          "section": "ORIENTIEREN IM WELTALL / SONNENSYSTEM",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-9",
+          "nr": 9,
+          "question": "Wie entstehen Tag und Nacht?",
+          "answer": "Durch die Erdrotation (Drehung um die eigene Achse in 24 Std.). Wegen der Kugelgestalt wird immer nur eine Hälfte von der Sonne beschienen (= Tag), die andere liegt im Schatten (= Nacht).",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-10",
+          "nr": 10,
+          "question": "Warum sind die Tage im Sommer länger als im Winter?",
+          "answer": "Wegen der Schrägstellung der Erdachse (23,5°). Im Sommer ist die eigene Halbkugel zur Sonne geneigt → Orte sind während einer Erdrotation länger dem Sonnenlicht ausgesetzt (>12 Std.). Im Winter umgekehrt (<12 Std.).",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-11",
+          "nr": 11,
+          "question": "Warum gibt es Jahreszeiten?",
+          "answer": "Durch die Schrägstellung der Erdachse kombiniert mit dem Sonnenumlauf. Für je 6 Monate ist abwechselnd die Nord- bzw. Südhalbkugel stärker der Sonne zugeneigt → mehr Sonnenstrahlung → wärmer.",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-12",
+          "nr": 12,
+          "question": "Nenne die vier Jahreszeiten-Anfangsdaten und die zugehörigen Jahreszeiten (Nordhalbkugel).",
+          "answer": "21. März: Frühlingsanfang\n21. Juni: Sommeranfang\n23. September: Herbstanfang\n21. Dezember: Winteranfang\nAuf der Südhalbkugel ist es genau umgekehrt!",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-13",
+          "nr": 13,
+          "question": "Warum feiert man in Australien Weihnachten im Sommer?",
+          "answer": "Australien liegt auf der Südhalbkugel. Wenn auf der Nordhalbkugel Winter ist (21. Dez.), ist auf der Südhalbkugel Sommer – die Südhalbkugel ist dann der Sonne zugeneigt.",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-14",
+          "nr": 14,
+          "question": "Was ist der Äquator?",
+          "answer": "Eine gedachte Linie, die die Erdkugel in eine Nordhalbkugel und eine Südhalbkugel teilt. Am Äquator treffen die Sonnenstrahlen nahezu senkrecht auf → ganzjährig warm, keine Jahreszeiten.",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-15",
+          "nr": 15,
+          "question": "Warum ist es am Äquator warm und an den Polen kalt?",
+          "answer": "Am Äquator treffen Sonnenstrahlen steil auf → Energie konzentriert sich auf kleine Fläche → warm.\nAn den Polen treffen Strahlen flach auf (wg. Erdkrümmung) → Energie verteilt sich auf große Fläche → kalt.",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-16",
+          "nr": 16,
+          "question": "Nenne die drei Beleuchtungszonen der Erde.",
+          "answer": "1. Tropenzone (zwischen den Wendekreisen, um den Äquator)\n2. Gemäßigte Zone (zwischen Wendekreis und Polarkreis)\n3. Polarzone (jenseits der Polarkreise, um die Pole)",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-17",
+          "nr": 17,
+          "question": "Was sind Polarkreise und Wendekreise?",
+          "answer": "Polarkreise: Grenzen der Polarzonen. Jenseits davon gibt es Polartag (24h hell) und Polarnacht (24h dunkel).\nWendekreise: Grenzen der Tropenzone. An ihnen steht die Sonne am 21. Juni bzw. 21. Dezember im Zenit.",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-18",
+          "nr": 18,
+          "question": "Was ist der Zenit?",
+          "answer": "Der gedachte Himmelspunkt senkrecht über dem Beobachter. Steht die Sonne im Zenit, scheint sie genau von oben herab.",
+          "section": "ENTSTEHUNG VON TAG UND NACHT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-19",
+          "nr": 19,
+          "question": "Nenne die sieben Kontinente der Erde.",
+          "answer": "Europa, Asien, Afrika, Nordamerika, Südamerika, Australien/Ozeanien, Antarktis.\nAsien ist der größte, Europa der kleinste Kontinent.",
+          "section": "KONTINENTE UND OZEANE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-20",
+          "nr": 20,
+          "question": "Nenne die fünf Ozeane der Erde.",
+          "answer": "Pazifischer Ozean (größter), Atlantischer Ozean, Indischer Ozean, Arktischer Ozean (Nordpolarmeer), Südlicher Ozean (Antarktischer Ozean).",
+          "section": "KONTINENTE UND OZEANE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-21",
+          "nr": 21,
+          "question": "Nenne die vier Haupthimmelsrichtungen.",
+          "answer": "Norden (oben), Süden (unten), Westen (links), Osten (rechts).\nAuf modernen Karten ist Norden immer oben.",
+          "section": "HIMMELSRICHTUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-22",
+          "nr": 22,
+          "question": "Was ist eine Windrose?",
+          "answer": "Ein Symbol auf Karten, das die Himmelsrichtungen anzeigt. Norden ist oben besonders markiert.",
+          "section": "HIMMELSRICHTUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-23",
+          "nr": 23,
+          "question": "In welche Richtung dreht sich die Erde und wo geht deshalb die Sonne auf?",
+          "answer": "Die Erde dreht sich von Westen nach Osten. Deshalb geht die Sonne im Osten auf und im Westen unter.",
+          "section": "HIMMELSRICHTUNGEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-24",
+          "nr": 24,
+          "question": "Warum gibt es Zeitzonen?",
+          "answer": "Weil nicht überall gleichzeitig Tag ist. Wäre überall die gleiche Uhrzeit, wäre es an manchen Orten mittags dunkel. Deshalb ist die Erde in 24 Zeitzonen eingeteilt mit unterschiedlichen Ortszeiten.",
+          "section": "ZEITZONEN DER ERDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-25",
+          "nr": 25,
+          "question": "Was ist die Datumsgrenze?",
+          "answer": "Eine Linie, die vom Nordpol zum Südpol durch den Pazifik verläuft. Beim Überqueren springt das Kalenderdatum um einen Tag. Sie liegt im dünn besiedelten Pazifik, damit wenige Menschen betroffen sind.",
+          "section": "ZEITZONEN DER ERDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-26",
+          "nr": 26,
+          "question": "Was ist ein Schaltjahr und warum gibt es den Schalttag?",
+          "answer": "Die Erde braucht ca. 365 Tage und 6 Stunden für einen Sonnenumlauf. Die 6 Stunden ergeben alle 4 Jahre einen vollen Tag → Schalttag am 29. Februar → Schaltjahr hat 366 Tage.",
+          "section": "ZEITZONEN DER ERDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-27",
+          "nr": 27,
+          "question": "Was ist ein Globus?",
+          "answer": "Ein verkleinertes Abbild der Erdkugel, ein Modell der Erde. Er zeigt die Kugelgestalt korrekt, ist aber zu klein für Details.",
+          "section": "KARTEN LESEN: SYMBOLE, MASSSTAB, LEGENDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-28",
+          "nr": 28,
+          "question": "Was ist der Maßstab einer Karte?",
+          "answer": "Das Größenverhältnis zwischen Wirklichkeit und Kartenabbildung. Beispiel: 1:25.000 bedeutet: 1 cm auf der Karte = 25.000 cm (= 250 m) in der Wirklichkeit.",
+          "section": "KARTEN LESEN: SYMBOLE, MASSSTAB, LEGENDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-29",
+          "nr": 29,
+          "question": "Was ist eine Kartenlegende?",
+          "answer": "Die Erklärung aller auf einer Karte verwendeten Zeichen, Symbole, Abkürzungen und Farben. Sie befindet sich meist am Kartenrand.",
+          "section": "KARTEN LESEN: SYMBOLE, MASSSTAB, LEGENDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-30",
+          "nr": 30,
+          "question": "Was ist eine physische Karte?",
+          "answer": "Eine Karte, die die Höhenschichten der Erdoberfläche (Gebirge, Tiefland, Meere) sowie Flüsse, Orte und Grenzen zeigt. Typische Farben: Grün = Tiefland, Braun = Gebirge, Blau = Wasser.",
+          "section": "KARTEN LESEN: SYMBOLE, MASSSTAB, LEGENDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-31",
+          "nr": 31,
+          "question": "Was ist ein Atlas?",
+          "answer": "Eine Zusammenstellung/Sammlung von Karten, die nach einem bestimmten System sortiert sind (nach Regionen und Sachgebieten). Enthält Kartenübersichten und Namens-/Sachregister.",
+          "section": "KARTEN LESEN: SYMBOLE, MASSSTAB, LEGENDE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-32",
+          "nr": 32,
+          "question": "Aus wie vielen Bundesländern besteht Deutschland?",
+          "answer": "16 Bundesländer. Die Bundeshauptstadt ist Berlin.",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-33",
+          "nr": 33,
+          "question": "Was ist ein Stadtstaat?",
+          "answer": "Ein Bundesland, das gleichzeitig eine Stadt ist. In Deutschland gibt es drei Stadtstaaten: Berlin, Hamburg und Bremen.",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-61",
+          "nr": 61,
+          "question": "Nenne alle Bundesländer die mit \"B\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Baden-Württemberg (Stuttgart), Bayern (München), Berlin (Berlin), Brandenburg (Potsdam), Bremen (Bremen)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-62",
+          "nr": 62,
+          "question": "Nenne alle Bundesländer die mit \"H\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Hamburg (Hamburg), Hessen (Wiesbaden)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-63",
+          "nr": 63,
+          "question": "Nenne alle Bundesländer die mit \"M\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Mecklenburg-Vorpommern (Schwerin)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-64",
+          "nr": 64,
+          "question": "Nenne alle Bundesländer die mit \"N\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Niedersachsen (Hannover), NRW (Düsseldorf)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-65",
+          "nr": 65,
+          "question": "Nenne alle Bundesländer die mit \"R\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Rheinland-Pfalz (Mainz)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-66",
+          "nr": 66,
+          "question": "Nenne alle Bundesländer die mit \"S\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Sachsen (Dresden), Sachsen-Anhalt (Magdeburg), Schleswig-Holstein (Kiel)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-67",
+          "nr": 67,
+          "question": "Nenne alle Bundesländer die mit \"T\" anfangen und ihre Landeshauptstädte.",
+          "answer": "Thüringen (Erfurt)",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-78",
+          "nr": 78,
+          "question": "Was ist ein Bundesland?",
+          "answer": "Ein Teilstaat der Bundesrepublik Deutschland. Deutschland hat 16 Bundesländer.",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-79",
+          "nr": 79,
+          "question": "Was ist eine Landeshauptstadt?",
+          "answer": "Die Hauptstadt eines Bundeslandes, z. B. München für Bayern.",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-80",
+          "nr": 80,
+          "question": "Was ist die Bundeshauptstadt?",
+          "answer": "Die Hauptstadt von ganz Deutschland. Das ist Berlin",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-81",
+          "nr": 81,
+          "question": "Welche Nachbarländer hat Deutschland?",
+          "answer": "Dänemark, Polen, Tschechien, Österreich, Schweiz, Frankreich, Luxemburg, Belgien, Niederlande.",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-82",
+          "nr": 82,
+          "question": "Wo liegt Deutschland in Europa?",
+          "answer": "Deutschland liegt in Mitteleuropa.",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-34",
+          "nr": 34,
+          "question": "Nenne die 16 Bundesländer mit ihren Landeshauptstädten.",
+          "answer": "Baden-Württemberg (Stuttgart), Bayern (München), Berlin (Berlin), Brandenburg (Potsdam), Bremen (Bremen), Hamburg (Hamburg), Hessen (Wiesbaden), Mecklenburg-Vorpommern (Schwerin), Niedersachsen (Hannover), NRW (Düsseldorf), Rheinland-Pfalz (Mainz), Saarland (Saarbrücken), Sachsen (Dresden), Sachsen-Anhalt (Magdeburg), Schleswig-Holstein (Kiel), Thüringen (Erfurt).",
+          "section": "ORIENTIEREN IN DEUTSCHLAND",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-35",
+          "nr": 35,
+          "question": "Definiere: Erdachse",
+          "answer": "Gedachte Linie Nordpol–Südpol, um die sich die Erde dreht. Um 23,5° geneigt.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-36",
+          "nr": 36,
+          "question": "Definiere: Erdrotation",
+          "answer": "Drehung der Erde um die eigene Achse. Dauer: 24 Stunden. Verursacht Tag/Nacht.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-37",
+          "nr": 37,
+          "question": "Definiere: Umlaufbahn",
+          "answer": "Die Bahn, auf der die Erde die Sonne umkreist (Erdrevolution). Dauer: ca. 365,25 Tage.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-38",
+          "nr": 38,
+          "question": "Definiere: Äquator",
+          "answer": "Gedachte Linie, die die Erde in Nord- und Südhalbkugel teilt. 0° Breitengrad.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-39",
+          "nr": 39,
+          "question": "Definiere: Legende (Karte)",
+          "answer": "Erklärung aller Zeichen, Symbole, Farben und Abkürzungen einer Karte.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-40",
+          "nr": 40,
+          "question": "Definiere: Maßstab",
+          "answer": "Gibt an, um wie viel die Wirklichkeit auf der Karte verkleinert ist. Z.B. 1:25.000.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-68",
+          "nr": 68,
+          "question": "Was ist die Nordhalbkugel?",
+          "answer": "Die Hälfte der Erde nördlich des Äquators.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-69",
+          "nr": 69,
+          "question": "Was ist die Südhalbkugel?",
+          "answer": "Die Hälfte der Erde südlich des Äquators.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-70",
+          "nr": 70,
+          "question": "Was ist der Nordpol?",
+          "answer": "Der nördlichste Punkt der Erde. Dort endet die Erdachse im Norden.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-71",
+          "nr": 71,
+          "question": "Was ist der Südpol?",
+          "answer": "Der südlichste Punkt der Erde. Dort endet die Erdachse im Süden.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-72",
+          "nr": 72,
+          "question": "Was ist ein Register?",
+          "answer": "Ein Verzeichnis in einem Atlas oder Buch, mit dem man Orte oder Themen schnell finden kann.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-73",
+          "nr": 73,
+          "question": "Was ist ein Stichwortverzeichnis?",
+          "answer": "Ein alphabetisches Verzeichnis wichtiger Begriffe oder Orte mit Seitenangaben.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-74",
+          "nr": 74,
+          "question": "Was ist ein Schrägluftbild?",
+          "answer": "Ein Luftbild, das schräg von oben aufgenommen wurde. Man sieht Vorder- und Hintergrund.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-75",
+          "nr": 75,
+          "question": "Was ist ein Senkrechtluftbild?",
+          "answer": "Ein Luftbild, das direkt von oben aufgenommen wurde, wie eine Karte.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-76",
+          "nr": 76,
+          "question": "Welche Farben haben oft diese Bedeutungen auf Karten?",
+          "answer": "Blau = Wasser, Grün = Wald/Tiefland, Braun = Gebirge/Höhen, Schwarz = Gebäude/Orte, Rot = wichtige Straßen.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-77",
+          "nr": 77,
+          "question": "Was zeigen Kartensymbole?",
+          "answer": "Kartensymbole stellen Dinge der Wirklichkeit vereinfacht dar, z. B. Straßen, Bahnhöfe, Kirchen, Flüsse oder Wälder.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-41",
+          "nr": 41,
+          "question": "Definiere: Satellit",
+          "answer": "Ein Himmelskörper oder künstliches Objekt, das einen Planeten umkreist. Der Mond ist ein natürlicher Satellit der Erde.",
+          "section": "FACHBEGRIFFE-CHECK THEMA 1",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-42",
+          "nr": 42,
+          "question": "Was sind Trockengebiete und wo liegen sie?",
+          "answer": "Gebiete mit sehr wenig Niederschlag, oft in der Nähe der Wendekreise (subtropische Hochdruckgebiete). Beispiele: Sahara (Afrika), Gobi (Asien), Atacama (Südamerika), Outback (Australien).",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-43",
+          "nr": 43,
+          "question": "Welche Wüstenarten gibt es?",
+          "answer": "Sandwüste (Erg): Sanddünen.\nSteinwüste (Hammada/Reg): Fels- und Geröllboden.\nKieswüste: Kiesbedeckte Flächen.\nSalzwüste: Ausgetrocknete Salzseen.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-44",
+          "nr": 44,
+          "question": "Wie passen sich Pflanzen an Trockenheit an?",
+          "answer": "Tiefe Wurzeln (Grundwasser erreichen), kleine/keine Blätter (wenig Verdunstung), Wasserspeicherung in Stamm/Blättern (Sukkulenten wie Kakteen), Dornen statt Blätter.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-45",
+          "nr": 45,
+          "question": "Wie passen sich Tiere an Trockenheit an?",
+          "answer": "Nachtaktiv (Hitze meiden), wenig Wasser benötigen (Kamel speichert Fett im Höcker → daraus Wasser), kühlendes Verhalten (Ohren als Wärmeableiter), Bau im Boden.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-46",
+          "nr": 46,
+          "question": "Was ist Nomadismus?",
+          "answer": "Die Lebensweise von Wanderhirten, die mit ihren Herden (Kamele, Ziegen, Rinder) von Weide- zu Weideplatz ziehen, um Nahrung und Wasser zu finden.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-47",
+          "nr": 47,
+          "question": "Was ist fossiles Wasser?",
+          "answer": "Uraltes Grundwasser, das vor Jahrtausenden entstanden ist und sich heute kaum noch erneuert. Wird z.B. in der Sahara für Bewässerung genutzt (begrenzte Ressource!).",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-48",
+          "nr": 48,
+          "question": "Was sind \"neue Oasen\"?",
+          "answer": "Künstlich bewässerte Anbaugebiete in der Wüste, die durch Brunnenbohrungen und Pipelines mit (oft fossilem) Wasser versorgt werden.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-49",
+          "nr": 49,
+          "question": "Was ist Desertifikation?",
+          "answer": "Die Ausbreitung von Wüstengebieten durch menschliche Einflüsse (Überweidung, Abholzung, falsche Bewässerung) und Klimawandel. Fruchtbarer Boden wird zu Wüste.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-50",
+          "nr": 50,
+          "question": "Nenne Schutzmaßnahmen gegen Desertifikation.",
+          "answer": "Aufforstung (Grüne Mauer in Afrika), nachhaltige Bewässerung (Tröpfchenbewässerung), Überweidung stoppen, Windschutzstreifen anlegen, traditionelle Anbaumethoden nutzen.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-51",
+          "nr": 51,
+          "question": "Was ist Stockwerkanbau?",
+          "answer": "Anbauform, bei der verschiedene Pflanzen in verschiedenen Höhenschichten auf derselben Fläche wachsen (z.B. hohe Palmen, darunter Obstbäume, darunter Gemüse). Schützt Boden und nutzt Fläche optimal.",
+          "section": "THEMA 2: TROCKENGEBIETE (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-52",
+          "nr": 52,
+          "question": "Beschreibe die Lage und die klimatischen Bedingungen der Polarregionen.",
+          "answer": "Polarregionen liegen jenseits der Polarkreise (66,5° N bzw. S). Extrem kalt, lange dunkle Winter (Polarnacht), lange helle Sommer (Polartag). Arktis (Nordpol) = gefrorener Ozean. Antarktis (Südpol) = eisbedeckter Kontinent.",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-53",
+          "nr": 53,
+          "question": "Was ist der Polartag und die Polarnacht?",
+          "answer": "Polartag: Die Sonne geht mindestens 24 Stunden lang nicht unter (Sommermonate).\nPolarnacht: Die Sonne geht mindestens 24 Stunden lang nicht auf (Wintermonate).\nTritt jenseits der Polarkreise auf.",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-54",
+          "nr": 54,
+          "question": "Was ist Permafrost?",
+          "answer": "Dauerhaft gefrorener Boden, der das ganze Jahr über nicht auftaut. In den Polarregionen und Teilen Sibiriens/Kanadas/Alaskas. Durch den Klimawandel beginnt er zu tauen → Probleme (Methanfreisetzung, instabiler Boden).",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-55",
+          "nr": 55,
+          "question": "Wie passen sich Tiere an die Polarregion an?",
+          "answer": "Dickes Fell/Gefieder, Fettschicht (Isolation), weiße Tarnung (Eisbär, Schneeeule), Zusammenleben in Gruppen (Pinguine), saisonale Wanderung.",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-56",
+          "nr": 56,
+          "question": "Wie passen sich Menschen an die Polarregion an?",
+          "answer": "Indigene Völker (z.B. Inuit, Samen): traditionelle Kleidung aus Tierfellen, Jagd/Fischfang, angepasste Behausungen (Iglus). Heute: moderne Technik, beheizte Gebäude auf Stelzen (wg. Permafrost).",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-57",
+          "nr": 57,
+          "question": "Was bedeutet indigene Bevölkerung?",
+          "answer": "Ureinwohner/Urbevölkerung einer Region, die dort seit Jahrtausenden lebt und eigene Kulturen, Sprachen und Traditionen hat. In der Arktis z.B. Inuit, Samen, Nenzen.",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-58",
+          "nr": 58,
+          "question": "Welche Bodenschätze gibt es in der Polarregion?",
+          "answer": "Erdöl, Erdgas, Kohle, Diamanten, seltene Erden. Die Rohstoffförderung ist umstritten wegen der Umweltgefahren in der empfindlichen Polarregion.",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-59",
+          "nr": 59,
+          "question": "Warum ist die Polarregion für die Klimaforschung wichtig?",
+          "answer": "Im Eis sind Luftblasen aus Jahrtausenden eingeschlossen → Eisbohrkerne liefern Daten über vergangene Klimabedingungen. Zudem zeigt sich der Klimawandel hier besonders stark (Eisschmelze).",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-60",
+          "nr": 60,
+          "question": "Welche Schutzmaßnahmen gibt es für die Polarregionen?",
+          "answer": "Antarktisvertrag: Verbot militärischer Nutzung, Schutz der Umwelt, nur Forschung erlaubt. Arktischer Rat: Zusammenarbeit der Anrainerstaaten. Fangquoten für Fische/Wale. Einschränkung des Tourismus.",
+          "section": "THEMA 3: POLARREGION (Themenkatalog-Ergänzung)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-61",
+          "nr": 61,
+          "question": "Was bedeutet der Begriff Geographie?",
+          "answer": "Aus dem Griechischen: Erdbeschreibung / Erdkunde. Terra (lateinisch) = Erde.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-62",
+          "nr": 62,
+          "question": "Was ist ein Lichtjahr?",
+          "answer": "Die Strecke, die Licht in einem Jahr zurücklegt. Es ist eine Entfernungseinheit für die riesigen Abstände im Weltall.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-63",
+          "nr": 63,
+          "question": "Wie groß ist die Erde (Durchmesser und Umfang)?",
+          "answer": "Durchmesser: ca. 12.700 km\nUmfang: ca. 40.000 km\nGesamte Erdoberfläche: ca. 510 Mio. km²",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-64",
+          "nr": 64,
+          "question": "Was ist der Unterschied zwischen Beleuchtungszonen und Temperaturzonen?",
+          "answer": "Beleuchtungszonen: Gebiete mit ähnlichen Beleuchtungsverhältnissen (regelmäßig, hängen nur vom Einfallswinkel ab).\nTemperaturzonen: Gebiete mit ähnlichen Durchschnittstemperaturen (unregelmäßig, hängen auch von Meeresnähe, Gebirgen, Wüsten ab).",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-65",
+          "nr": 65,
+          "question": "Warum scheint die Sonne die Erde nicht überall gleich stark zu erwärmen? (Einfallswinkel)",
+          "answer": "Wegen der Kugelgestalt der Erde:\n- Am Äquator: Strahlen treffen steil auf → kleine Fläche → viel Energie pro m² → warm.\n- An den Polen: Strahlen treffen flach auf → große Fläche → wenig Energie pro m² → kalt.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-66",
+          "nr": 66,
+          "question": "Warum gibt es am Äquator keine Jahreszeiten?",
+          "answer": "Am Äquator treffen die Sonnenstrahlen das ganze Jahr über nahezu senkrecht auf. Die Schrägstellung der Erdachse wirkt sich dort kaum aus → ganzjährig gleichmäßig warm.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-67",
+          "nr": 67,
+          "question": "Was ist die Schrägstellung der Erdachse und warum ist sie so wichtig?",
+          "answer": "Die Erdachse ist um 23,5° geneigt (zur Ebene der Umlaufbahn). Diese Neigung bleibt während des gesamten Sonnenumlaufs gleich gerichtet. Sie verursacht:\n- Jahreszeiten\n- Unterschiedliche Tageslängen\n- Polartag/Polarnacht",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-68",
+          "nr": 68,
+          "question": "Was passiert an einem Sonnenumlauf genau (365 Tage + 6 Std.)?",
+          "answer": "Da ein Sonnenumlauf 365 Tage und ca. 6 Stunden dauert, unser Kalenderjahr aber nur 365 Tage hat, summieren sich die 6 Std. in 4 Jahren zu 24 Std. = 1 Tag. Deshalb: alle 4 Jahre Schalttag (29. Feb.).",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-69",
+          "nr": 69,
+          "question": "Maßstabs-Aufgabe: 1:25.000 – Zwei Orte sind auf der Karte 5 cm entfernt. Wie weit sind sie in Wirklichkeit?",
+          "answer": "5 cm × 25.000 = 125.000 cm = 1.250 m = 1,25 km\nFormel: Kartenentfernung × Maßstabszahl = echte Entfernung.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "geographie-die-erde-70",
+          "nr": 70,
+          "question": "Rekorde der Erde – teste dein Kartenwissen!",
+          "answer": "Längster Fluss: Nil (mündet ins Mittelmeer)\nGrößtes Land: Russland\nHöchster Berg: Mount Everest (Himalaya, Asien)\nGrößte Wüste: Sahara (Nordafrika)\nWasserreichster Fluss: Amazonas (Brasilien → Atlantik)\nGrößte Insel: Grönland",
+          "section": "ERGÄNZENDES WISSEN AUS DEM PDF",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        }
+      ]
+    },
+    {
+      "id": "weimarer-republik",
+      "title": "Weimarer Republik",
+      "sourceFile": "Karteikarten_Weimarer_Republik.xlsx",
+      "cards": [
+        {
+          "id": "weimarer-republik-1",
+          "nr": 1,
+          "question": "Was ist eine Parlamentarische Republik?",
+          "answer": "Eine Staatsform, in der das Parlament (Volksvertretung) die wichtigste Einrichtung ist. Die Abgeordneten werden vom Volk gewählt und besitzen ein repräsentatives Mandat (nur dem Gewissen verpflichtet). Gewaltenteilung (Legislative, Exekutive, Judikative) ist ein grundlegendes Prinzip. Die Regierung braucht das Vertrauen des Parlaments.",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-2",
+          "nr": 2,
+          "question": "Was ist eine Räterepublik?",
+          "answer": "Eine Staatsform, in der Räte auf allen Ebenen die politische Willensbildung übernehmen. System ist pyramidenartig aufgebaut: Basis-Räte wählen Räte der nächsthöheren Ebene. Abgeordnete haben ein imperatives Mandat (an den Wählerwillen gebunden, jederzeit abberufbar). Keine Gewaltenteilung – Räte üben Legislative, Exekutive und Judikative gleichzeitig aus.",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-3",
+          "nr": 3,
+          "question": "Was ist eine Notverordnung?",
+          "answer": "Ein Gesetz, das vom Reichspräsidenten ohne Zustimmung des Reichstags erlassen wurde (auf Grundlage von Artikel 48 der Weimarer Verfassung). Der Reichspräsident konnte im „Notstand\" Grundrechte außer Kraft setzen und mit Hilfe der bewaffneten Macht einschreiten. Das Parlament wurde dabei umgangen – die Legislative war machtlos.",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-4",
+          "nr": 4,
+          "question": "Was ist ein Putsch?",
+          "answer": "Ein gewaltsamer Umsturzversuch gegen die bestehende Regierung, meist durch das Militär oder paramilitärische Gruppen. Beispiele aus der Weimarer Republik: Lüttwitz-Kapp-Putsch (1920) und Hitler-Putsch in München (1923).",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-5",
+          "nr": 5,
+          "question": "Was ist ein Generalstreik?",
+          "answer": "Ein Streik, an dem sich Arbeiter aller oder der meisten Branchen beteiligen, um politischen oder wirtschaftlichen Druck auszuüben. Beispiel: Der Generalstreik gegen den Lüttwitz-Kapp-Putsch 1920, ausgerufen von SPD und Gewerkschaften, der zum Scheitern des Putsches führte (kein Strom, kein Wasser).",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-6",
+          "nr": 6,
+          "question": "Was bedeutet Inflation?",
+          "answer": "Geldentwertung – das Geld verliert an Kaufkraft, die Preise steigen. Ursache: Es wird mehr Geld gedruckt, als Gegenwerte (z.B. Gold) vorhanden sind. In der Hyperinflation 1923 rechnete man in Millionen, Milliarden und Billionen. Gewinner: Schuldner (konnten Schulden mit wertlosem Geld zurückzahlen). Verlierer: Sparer und Bezieher fester Einkommen.",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-7",
+          "nr": 7,
+          "question": "Was sind Reparationen?",
+          "answer": "Entschädigungszahlungen, die Deutschland nach dem Ersten Weltkrieg an die Siegermächte leisten musste. Grundlage: Versailler Vertrag (Kriegsschuldartikel 231). Ursprüngliche Forderung: 226 Milliarden Goldmark in 42 Jahren. Wurden durch Dawes-Plan (1924) und Young-Plan (1929) verringert und 1932 in Lausanne ganz gestrichen.",
+          "section": "FACHBEGRIFFE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-8",
+          "nr": 8,
+          "question": "Was geschah am 9. November 1918?",
+          "answer": "Die Republik wurde gleich zweimal ausgerufen:\n1. Philipp Scheidemann (MSPD) → parlamentarische Demokratie\n2. Karl Liebknecht (USPD) → sozialistische Räterepublik\nGrund: Grundsätzlich unterschiedliche Vorstellungen über die künftige Staats- und Regierungsform.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-9",
+          "nr": 9,
+          "question": "Was war die MSPD und was wollte sie?",
+          "answer": "Mehrheitssozialdemokratische Partei Deutschlands. Sie wollte möglichst schnell eine demokratisch gewählte verfassunggebende Nationalversammlung einberufen, die grundlegende Verfassungsfragen klären sollte – einschließlich der Wirtschaftsordnung.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-10",
+          "nr": 10,
+          "question": "Was war die USPD und was wollte sie?",
+          "answer": "Unabhängige Sozialdemokratische Partei Deutschlands (Partei von Karl Liebknecht). Sie wollte schnellstmöglich ein Rätesystem mit sozialistischen Vorstellungen verwirklichen und die Sozialisierung (Verstaatlichung) wichtiger Industriezweige. Die Nationalversammlung sollte erst später kommen.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-11",
+          "nr": 11,
+          "question": "Was war der „Rat der Volksbeauftragten\"?",
+          "answer": "Die vorläufige Regierung, gebildet am 9. November 1918. Bestand aus je 3 Politikern der MSPD und der USPD. Geleitet von Hugo Haase (USPD) und Friedrich Ebert (MSPD). Dringendste Probleme: Chaos, Hunger, Wiedereingliederung von 8 Mio. Soldaten, Versorgung der Bevölkerung, Angst vor Bürgerkrieg.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-12",
+          "nr": 12,
+          "question": "Warum griff die MSPD auf Fachleute des alten Kaiserreichs zurück?",
+          "answer": "Wegen der Notsituation: Chaos, Hunger, Seeblockade, 8 Mio. heimkehrende Soldaten. Man brauchte Erfahrung aus Militär, Polizei, Justiz und Verwaltung. Problem: Diese Fachleute lehnten überwiegend die parlamentarische Demokratie ab. Es kam nie zu einem Austausch der alten Machtelite gegen Republikanhänger.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-13",
+          "nr": 13,
+          "question": "Was beschloss der „Erste Allgemeine Kongress der Arbeiter- und Soldatenräte\" (16.–21. Dez. 1918)?",
+          "answer": "Die 500 Delegierten (2/3 MSPD) diskutierten Rätesystem vs. parlamentarische Demokratie. Ergebnis: Das Rätesystem wurde mit großer Mehrheit abgelehnt. Die künftige Regierungsform sollte eine verfassunggebende Nationalversammlung regeln. Bis dahin behielt der Rat der Volksbeauftragten Legislative und Exekutive.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-14",
+          "nr": 14,
+          "question": "Vergleiche: Imperatives Mandat vs. Repräsentatives Mandat.",
+          "answer": "Imperatives Mandat (Rätedemokratie): Abgeordnete sind an den Wählerwillen gebunden und können jederzeit abberufen werden.\n\nRepräsentatives Mandat (Parlamentarische Demokratie): Abgeordnete sind nur ihrem Gewissen verpflichtet und können vor Ablauf der Wahlperiode nicht abberufen werden.",
+          "section": "DEMOKRATISIERUNGSPROZESSE AM ENDE DES ERSTEN WELTKRIEGS",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-15",
+          "nr": 15,
+          "question": "Wann fanden die Wahlen zur Nationalversammlung statt und wer gewann?",
+          "answer": "Am 19. Januar 1919. Sieger: MSPD, DDP (Deutsche Demokratische Partei) und Zentrumspartei mit zusammen 76,1 % der Stimmen. Sie bildeten am 13. Februar die Regierung → „Weimarer Koalition\" (tagte wegen Unruhen zunächst in Weimar).",
+          "section": "WEIMARER REICHSVERFASSUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-16",
+          "nr": 16,
+          "question": "Wer wurde erster Reichspräsident und wann trat die Verfassung in Kraft?",
+          "answer": "Friedrich Ebert wurde am 11. Februar 1919 von der Nationalversammlung zum ersten Reichspräsidenten gewählt. Die Verfassung trat am 14. August 1919 in Kraft. Nach den Reichstagswahlen vom 6. Juni 1920 wurde die Nationalversammlung durch den Reichstag ersetzt.",
+          "section": "WEIMARER REICHSVERFASSUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-17",
+          "nr": 17,
+          "question": "Welche Schwächen hatte die Weimarer Verfassung?",
+          "answer": "1. Starke Stellung des Reichspräsidenten („Ersatzkaiser\"): Direkt vom Volk auf 7 Jahre gewählt, konnte fast beliebig oft den Reichstag auflösen.\n2. Artikel 48 (Notstandsartikel): Grundrechte außer Kraft setzen, per Notverordnung regieren.\n3. Volksbegehren (10% der Wahlberechtigten): Konnte Gesetzesänderungen verhindern.\n4. Volksentscheid (5% der Wahlberechtigten): Konnte Gesetze zu Fall bringen.\n→ Alles zusammen entwertete die Arbeit des Reichstags.",
+          "section": "WEIMARER REICHSVERFASSUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-18",
+          "nr": 18,
+          "question": "Warum wurde der Reichspräsident als „Ersatzkaiser\" bezeichnet?",
+          "answer": "Er hatte enorme Machtfülle: Direkt vom Volk auf 7 Jahre gewählt, konnte den Reichstag fast beliebig auflösen (nur „einmal aus dem gleichen Anlass\" beschränkt), konnte per Artikel 48 Grundrechte außer Kraft setzen und Notverordnungen erlassen. Damit konnte er das Parlament umgehen.",
+          "section": "WEIMARER REICHSVERFASSUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-19",
+          "nr": 19,
+          "question": "Was regelte Artikel 48 der Weimarer Verfassung?",
+          "answer": "Der Notstandsartikel gab dem Reichspräsidenten im Notstand das Recht:\n- Den Ausnahmezustand zu verhängen\n- Wichtige Grundrechte (z.B. persönliche Freiheit, Meinungsfreiheit) vorübergehend außer Kraft zu setzen\n- Per Notverordnung Dinge anzuordnen, die normalerweise der Reichstag durch Gesetz regeln musste\n→ Das Parlament wurde umgangen, die Legislative war machtlos.",
+          "section": "WEIMARER REICHSVERFASSUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-20",
+          "nr": 20,
+          "question": "Welche Parteien gehörten zur Weimarer Koalition und was unterschied sie von den anderen?",
+          "answer": "SPD, DDP und Zentrum. Sie waren die einzigen Parteien, die ohne Wenn und Aber zum demokratischen System standen.\n- SPD: Bis 1932 stärkste Kraft, v.a. Arbeiter, meist in Opposition\n- DDP: Bildungsbürgertum/Mittelstand, großer Einfluss auf Verfassung\n- Zentrum: Vertretung der Katholiken, stellte 5 Reichskanzler\nAlle anderen Parteien bekämpften oder waren gleichgültig gegenüber der Demokratie.",
+          "section": "WEIMARER REICHSVERFASSUNG",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-21",
+          "nr": 21,
+          "question": "In welche drei Zeitabschnitte wird die Weimarer Republik unterteilt?",
+          "answer": "1. 1918–1923: Krisenjahre\n2. 1924–1929: Stabilisierung („Goldene Zwanziger\")\n3. 1930–1933: Präsidialkabinette und Untergang",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-22",
+          "nr": 22,
+          "question": "Was war der Lüttwitz-Kapp-Putsch (1920)?",
+          "answer": "Hintergrund: Abrüstung laut Versailler Vertrag (Heer auf 100.000 Mann). Ca. 300.000 Soldaten/Freikorpsangehörige standen vor Entlassung.\nAblauf: General von Lüttwitz forderte Beibehaltung der Freikorps. Als Regierung ablehnte, marschierten Freikorpssoldaten am 12. März nach Berlin. Regierung floh nach Stuttgart. Wolfgang Kapp rief sich zum Reichskanzler aus.\nScheitern: Generalstreik von SPD/Gewerkschaften (kein Strom, kein Wasser). Weder Reichswehr noch Beamte unterstützten den Putsch → Aufgabe am 17. März.",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-23",
+          "nr": 23,
+          "question": "Welche politischen Morde gab es in den Krisenjahren?",
+          "answer": "- Jan. 1919: Rosa Luxemburg und Karl Liebknecht (KPD) ermordet\n- Feb. 1919: Kurt Eisner, bay. Ministerpräsident (USPD)\n- Aug. 1921: Matthias Erzberger (Zentrum), Unterzeichner des Versailler Vertrags\n- Juni 1922: Walther Rathenau (DDP), Außenminister (auch weil er Jude war)\nTäter: Meist ehemalige/aktive Reichswehroffiziere und Freikorpsangehörige. Kamen meist mit geringen Strafen davon.",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-24",
+          "nr": 24,
+          "question": "Was geschah im Krisenjahr 1923? (Überblick)",
+          "answer": "1. Ruhrbesetzung durch Frankreich/Belgien (11. Jan.) wegen verspäteter Reparationen\n2. Passiver Widerstand der Bevölkerung (von Regierung befohlen)\n3. Hyperinflation durch Finanzierung des passiven Widerstands\n4. Kommunistischer Umsturzversuch (Okt., Thüringen/Sachsen – scheiterte)\n5. Hitler-Putsch (9. Nov., München – scheiterte)\n6. Separatistische Bestrebungen im Rheinland/Pfalz\n7. Währungsreform: Einführung der Rentenmark (15. Nov.)",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-25",
+          "nr": 25,
+          "question": "Erkläre die Hyperinflation 1923: Ursachen, Verlauf, Ende.",
+          "answer": "Ursachen: Bereits Erster Weltkrieg und Reparationen durch Gelddrucken finanziert. Verschärft durch Finanzierung des passiven Widerstands im Ruhrgebiet → immer mehr Geldscheine ohne Gegenwerte.\nVerlauf: Bezahlung in Millionen, Milliarden, Billionen. Naturalientausch (Theaterkarte = 2 Eier). Gewinner: Schuldner. Verlierer: Sparer, feste Einkommen.\nEnde: 26. Sept. – Abbruch passiver Widerstand. 15. Nov. – Währungsreform: 1 Billion Papiermark = 1 Rentenmark.",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-26",
+          "nr": 26,
+          "question": "Was war Hitlers Putschversuch 1923?",
+          "answer": "Am 9. November 1923 versuchte die NSDAP unter Adolf Hitler einen Putsch in München. Er scheiterte nach einem kurzen Feuergefecht mit Polizisten an der Feldherrnhalle. Der Putsch war schlecht vorbereitet und fand nur Unterstützung bei einem kleinen Bevölkerungsteil.",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-27",
+          "nr": 27,
+          "question": "Was waren die „Goldenen Zwanziger\" (1924–1929)?",
+          "answer": "Bezeichnung für die Stabilisierungsphase mit reichem Kunst- und Kulturleben:\n- Wirtschaftlicher Aufschwung (Industrieproduktion und Löhne 1928/29 wieder auf Vorkriegsniveau)\n- Technische Neuerungen: Tonfilm (1922), Rundfunk (1923), Selbstwähltelefone (1926), erste TV-Vorführung (1928)\n- Motorisierung: PKW/LKW-Zahl stieg von 125.000 (1922) auf 470.000 (1928)\n- Kulturblüte: Berlin mit 49 Theatern, 3 Opernhäusern, 75 Kabaretts\n- Kinos stiegen von 3.700 auf über 5.000",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-28",
+          "nr": 28,
+          "question": "Was war die Kehrseite der „Goldenen Zwanziger\"?",
+          "answer": "Viele Menschen waren durch schnelle Veränderungen verunsichert:\n- Alte Oberschicht (Adel): Verlust des direkten Zugangs zur Macht\n- Mittelschichten: Angst vor Abstieg (Handwerker vs. Industrie; sinkende Gehälter)\n- Unterschicht: Hohe Arbeitslosigkeit\n- Besonders betroffen: Jugendliche (Jg. 1897–1917), die Krieg erlebten, ohne Vater aufwuchsen, in Arbeitslosigkeit gerieten\n→ Anfälligkeit für antidemokratische Ideologien",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-29",
+          "nr": 29,
+          "question": "Welche paramilitärischen Verbände gab es und zu welchen Parteien gehörten sie?",
+          "answer": "- „Reichsbanner Schwarz-Rot-Gold\" → SPD/Zentrum/DDP (Verteidigung der Republik)\n- „Sturmabteilung\" (SA) → NSDAP (gegr. 1921, „Eroberung der Straße\")\n- „Roter Frontkämpferbund\" → KPD (bürgerkriegsähnliche Kämpfe mit SA)\n- „Stahlhelm, Bund der Frontsoldaten\" → DNVP (gegr. Dez. 1918, Ziele: Diktatur, Revanchekrieg)\nFolge: Bürgerkriegsähnliche Zustände, viele Tote und Verletzte.",
+          "section": "ZWISCHEN KRISE UND STABILITÄT",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-30",
+          "nr": 30,
+          "question": "Was war der „Schwarze Freitag\" (25. Okt. 1929) und wie löste er die Weltwirtschaftskrise aus?",
+          "answer": "An der New Yorker Börse stürzten die Kurse ins Bodenlose.\nUrsache: Überangebot an Waren → Industrie konnte Produkte nicht verkaufen → Firmen wertlos → Aktienverkauf ohne Käufer → Kurssturz.\nFolge: Weltwirtschaftskrise, weil viele europäische Länder US-Kredite für Reparationen/Wiederaufbau genutzt hatten. Diese mussten zurückgezahlt werden, neue Kredite gab es nicht mehr.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-31",
+          "nr": 31,
+          "question": "Wie wirkte sich die Weltwirtschaftskrise auf Deutschland aus?",
+          "answer": "Deutschland war nach den USA am stärksten betroffen:\n- Abwärtsspirale: Überangebot → Produktionsdrosselung → Entlassungen → sinkende Kaufkraft → weiter sinkende Nachfrage\n- Winter 1929/30: über 3 Mio. Arbeitslose\n- Juli 1931: Zusammenbruch der Danatbank (Höhepunkt)\n- Nur Eingreifen der Reichsregierung (1,3 Mrd. RM) verhinderte weitere Bankzusammenbrüche\n- Krise erst ab 1933 durch NS-Aufrüstungspolitik überwunden",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-32",
+          "nr": 32,
+          "question": "Was sind Präsidialkabinette und wie funktionierten sie?",
+          "answer": "Regierungen ohne Parlamentsmehrheit, die mithilfe der Machtmittel des Reichspräsidenten regierten:\n1. Regierung bringt Gesetzesvorlage in Reichstag ein\n2. Reichstag lehnt ab\n3. Kanzler droht mit Art. 48 → Notverordnung\n4. Reichstag verlangt Aufhebung der Notverordnung\n5. Reichspräsident löst Reichstag auf (Art. 25)\n6. 60 Tage unkontrolliertes Regieren per Notverordnung bis zur Neuwahl\n→ Parlament als Ort politischer Entscheidung ausgeschaltet. Nicht demokratisch.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-33",
+          "nr": 33,
+          "question": "Warum trat die Regierung Müller (SPD) 1930 zurück?",
+          "answer": "Die Arbeitslosenversicherung war nicht für die hohe Arbeitslosenzahl ausgelegt. Es gab nur zwei Optionen: Beiträge erhöhen oder Leistungen kürzen. Die Regierung unter Reichskanzler Hermann Müller konnte sich nicht einigen. Als die SPD einen Kompromissvorschlag von Brüning ablehnte, trat die Regierung am 27. März 1930 zurück. In Wirklichkeit war der Sturz wohl im Umfeld von Reichspräsident Hindenburg geplant worden.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-34",
+          "nr": 34,
+          "question": "Wie regierte Heinrich Brüning als Reichskanzler (1930–1932)?",
+          "answer": "Brüning wurde ohne Rücksprache mit den Parteien ernannt und hatte keine Reichstagsmehrheit. Er regierte bewusst per Notverordnung (Art. 48) und Reichstagsauflösung (Art. 25). Er verfolgte eine eiserne Sparpolitik (Sozialabbau, Lohnkürzungen), um den Alliierten die Unmöglichkeit der Reparationszahlungen zu zeigen. Das Ziel wurde 1932 in Lausanne erreicht – aber seine Politik heizte die Krise an.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-35",
+          "nr": 35,
+          "question": "Wie stieg die NSDAP auf?",
+          "answer": "- Vor 1930: Regelmäßig nur ca. 5 % (1928: 2,6 %, 12 Abgeordnete)\n- Reichstagswahl 1930: 18,3 % (107 Abgeordnete) → fast verneunfacht!\n- Juli 1932: 37,3 % (230 Abgeordnete) → stärkste Kraft\n- Nov. 1932: Verlust auf 33,1 % (196 Abgeordnete)\n- 30. Januar 1933: Hitler wird Reichskanzler\nGründe: Weltwirtschaftskrise, Sparpolitik Brünings, Verunsicherung der Bevölkerung, Versagen der demokratischen Parteien, Propaganda.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-36",
+          "nr": 36,
+          "question": "Was war die „negative Mehrheit\" im Reichstag 1932?",
+          "answer": "Nach der Reichstagswahl Juli 1932 hatten NSDAP (230) und KPD (89) zusammen 319 von 608 Abgeordneten – also die Mehrheit. Diese lehnten das parlamentarische System ab und hielten sich nicht an parlamentarische Regeln → Demokratische Gesetzgebung war praktisch unmöglich.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-37",
+          "nr": 37,
+          "question": "Wie kam Hitler am 30. Januar 1933 an die Macht?",
+          "answer": "Nach Brünings Rücktritt folgten Franz von Papen und Kurt von Schleicher als Kanzler – beide ohne parlamentarische Mehrheit. Schleicher trat am 28. Jan. 1933 zurück.\nPapen und Hitler verbündeten sich. Papen glaubte, die NSDAP durch „Einrahmung\" mit anderen Ministern kontrollieren zu können. Er überzeugte Hindenburgs Berater und Sohn Oskar.\nAm 30. Januar 1933 ernannte Hindenburg Hitler zum Reichskanzler (nur 2 weitere NSDAP-Minister: Frick und Göring).",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-38",
+          "nr": 38,
+          "question": "Wer waren die drei letzten Reichskanzler vor Hitler und warum scheiterten sie?",
+          "answer": "1. Heinrich Brüning (Zentrum, 1930–1932): Eiserne Sparpolitik, verlor Hindenburgs Vertrauen\n2. Franz von Papen (Zentrum, 1932): „Kabinett der Barone\" – zu einseitig (7 Adlige, 3 Bürgerliche), SPD entzog Unterstützung\n3. Kurt von Schleicher (parteilos, 1932–1933): Ohne parlamentarische Unterstützung, wollte Staatsnotstand → Hindenburg lehnte ab → Rücktritt\nAlle drei regierten als Präsidialkabinette ohne demokratische Mehrheit.",
+          "section": "DAS SCHEITERN DER REPUBLIK",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-39",
+          "nr": 39,
+          "question": "Was war der Dawes-Plan (1924)?",
+          "answer": "Entworfen vom amerikanischen Bankier Charles Dawes. Hauptinhalt: Senkung der jährlichen Reparationsraten auf 1 Mrd. (1924) bis 2,5 Mrd. Reichsmark (1928). Hintergrund: Die USA hatten Interesse an einer Lösung, weil europäische Länder ihre Kriegsschulden an die USA nur zurückzahlen konnten, wenn Deutschland Reparationen zahlte.",
+          "section": "AUSSENPOLITIK UND REPARATIONEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-40",
+          "nr": 40,
+          "question": "Was war der Young-Plan (1929)?",
+          "answer": "Entworfen von Owen D. Young. Erstmals Festlegung von Laufzeit (59 Jahre, bis 1988) und Gesamtsumme (112 Mrd. RM). Jahresraten deutlich gesenkt. Außenpolitischer Triumph: Räumung des Rheinlands schon 1930 statt 1935. Trat 1930 in Kraft, wurde durch die Weltwirtschaftskrise aber bald wertlos. 1932 in Lausanne: Streichung aller Reparationen.",
+          "section": "AUSSENPOLITIK UND REPARATIONEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-41",
+          "nr": 41,
+          "question": "Was war der Vertrag von Rapallo (1922)?",
+          "answer": "Vertrag zwischen Deutschland und der Sowjetunion (beide Außenseiter). Inhalt: Verzicht auf gegenseitige Reparationen, Aufnahme diplomatischer Beziehungen, Meistbegünstigung im Handel. Bedeutung: Deutschland umging den westeuropäischen Boykott deutscher Waren und stärkte seine Verhandlungsposition.",
+          "section": "AUSSENPOLITIK UND REPARATIONEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-42",
+          "nr": 42,
+          "question": "Was waren die Verträge von Locarno (1925)?",
+          "answer": "Friedensabkommen zwischen Deutschland, Frankreich, Belgien, Großbritannien, Italien, Polen, Tschechoslowakei.\n- Garantiepakt: Deutsche Westgrenze „unverletzlich\" (Verzicht auf Elsass-Lothringen)\n- Schiedsabkommen mit Frankreich/Belgien\n- Schiedsverträge mit Polen/Tschechoslowakei (keine Gewalt, aber keine Grenzgarantie im Osten)\nWerk von Stresemann und Briand → Friedensnobelpreis 1926.\nFolge: 1926 Aufnahme Deutschlands in den Völkerbund.",
+          "section": "AUSSENPOLITIK UND REPARATIONEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-43",
+          "nr": 43,
+          "question": "Welche antidemokratischen Parteien gab es in der Weimarer Republik?",
+          "answer": "- DVP (Deutsche Volkspartei): Zunächst gleichgültig/ablehnend, später aus Vernunft unterstützend. Vertrat Großbürgertum/Mittelstand.\n- KPD (Kommunistische Partei): Linker Rand, Vorbild Sowjetunion, Massenstreiks/Protest.\n- DNVP (Deutsch-Nationale Volkspartei): Rechter Rand, Großgrundbesitzer/Großindustrielle, wollte Monarchie wiederherstellen.\n- NSDAP: Strebte Diktatur an, antisemitisch, antikapitalistisch, antidemokratisch.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-44",
+          "nr": 44,
+          "question": "Wie entwickelten sich die Stimmenanteile der demokratischen Parteien?",
+          "answer": "- SPD: Von ca. 40% auf unter 20% (1933)\n- DDP: Von 17,3% (1919) auf ca. 1% (nach 1930)\n- Zentrum: Stabil bei ca. 15%\n- DVP: Von 10% (1920) auf ca. 1% (1930)\n→ Ab 1930 fielen verlorene Stimmen an die radikalen Parteien (NSDAP und KPD).",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-45",
+          "nr": 45,
+          "question": "Was war die Dolchstoßlegende?",
+          "answer": "Eine Verschwörungstheorie der rechten Parteien: Das deutsche Heer sei im Ersten Weltkrieg „von hinten erdolcht\" worden – durch Politiker, die den Waffenstillstand unterzeichneten. Viele Menschen, die ihre Kriegsopfer nicht als sinnlos akzeptieren wollten, glaubten daran. Zusammen mit der Wirtschaftskrise trieb die Legende Wähler zu demokratiefeindlichen Parteien.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-46",
+          "nr": 46,
+          "question": "Was war das Gesetz über Arbeitslosenvermittlung und Arbeitslosenversicherung (1927)?",
+          "answer": "In Kraft seit 1. Oktober 1927. Arbeitsvermittlung durch staatliches Arbeitsamt. Arbeitslose erhielten 26 Wochen (max. 39 Wochen) Zahlungen aus der Versicherung. Beiträge zu gleichen Teilen von Arbeitnehmer und Arbeitgeber. Ersetzte Fürsorgeprinzip (Suppenküchen) durch Versicherungsprinzip (Rechtsanspruch). Problem: Nur für 700.000 Arbeitslose ausgelegt.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-47",
+          "nr": 47,
+          "question": "Welche Sozialpolitik gab es in der Weimarer Republik?",
+          "answer": "Bismarcks Versicherungssystem in der Verfassung verankert und verbessert. Einzelmaßnahmen: Anerkennung neuer Berufskrankheiten, mehr Ärzte, Bau von Sozialwohnungen. Größte Leistung: Arbeitslosenversicherung (1927).",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-48",
+          "nr": 48,
+          "question": "Was war das Bauhaus?",
+          "answer": "Künstlerschule, 1919 in Weimar gegründet, 1925 nach Dessau umgezogen. Ziel: Zusammenführung von Architektur, Malerei und angewandter Kunst. Daraus entstand die Bauhausarchitektur: Schlichte Bauformen, große Glasflächen, Stahl und Beton. Stil: „Neue Sachlichkeit\". Beispiel: Weißenhofsiedlung in Stuttgart.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-49",
+          "nr": 49,
+          "question": "Nenne wichtige Künstler/Werke der Weimarer Republik.",
+          "answer": "- Alfred Döblin: „Berlin Alexanderplatz\" (1929)\n- Erich Maria Remarque: „Im Westen nichts Neues\"\n- Hans Fallada: „Kleiner Mann, was nun?\"\n- Bert Brecht: „Dreigroschenoper\" (1928), „Aufstieg und Fall der Stadt Mahagonny\" (1930)\n- Fritz Lang: Film „Metropolis\"\n- Otto Dix, George Grosz: Maler der Großstadt\n- Comedian Harmonists: Gesangsgruppe\n- Stil: „Neue Sachlichkeit\"",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-50",
+          "nr": 50,
+          "question": "Was war das Hoover-Moratorium (1931)?",
+          "answer": "Der amerikanische Präsident Herbert Hoover setzte einen befristeten Zahlungsaufschub durch: Reparationszahlungen Deutschlands und alliierte Kriegsschulden an die USA wurden für ein Jahr unterbrochen. Grund: Deutschland stand 1931 vor dem finanziellen Zusammenbruch durch die Weltwirtschaftskrise.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-51",
+          "nr": 51,
+          "question": "Was geschah in Lausanne 1932?",
+          "answer": "Auf einer Konferenz einigten sich die betroffenen Staaten auf die völlige Streichung der deutschen Reparationsverpflichtungen gegen eine symbolische Abschlusszahlung. Diese letzte Zahlung wurde allerdings nie geleistet. → Ende der Reparationsfrage.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-52",
+          "nr": 52,
+          "question": "Warum unterstützte die SPD die Regierung Brüning als „kleineres Übel\"?",
+          "answer": "Die SPD wollte weitere Reichstagswahlen verhindern, weil sie einen hohen Wahlsieg der NSDAP fürchtete. Hätte die NSDAP genug Stimmen bekommen, hätte Hindenburg möglicherweise Hitler zum Kanzler ernannt → Ende der Demokratie. Deshalb sicherte die SPD Brüning ab, damit er keine Abstimmungsniederlagen erlitt.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-53",
+          "nr": 53,
+          "question": "Was waren Nationalsozialismus und Kommunismus und was hatten sie gemeinsam?",
+          "answer": "Nationalsozialismus (NSDAP, rechts): „National-\" zog Versailles-Gegner an, „-sozialismus\" die Enttäuschten. Ziel: Diktatur, antisemitisch.\nKommunismus (KPD, links): Vorbild Sowjetunion, „Diktatur des Proletariats\" als Zwischenstufe zur klassenlosen Gesellschaft.\nGemeinsam: Beide lehnten die parlamentarische Demokratie ab.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-54",
+          "nr": 54,
+          "question": "Welche Reichstagswahlergebnisse 1928 vs. 1930 zeigen den Aufstieg der NSDAP?",
+          "answer": "NSDAP: 2,6% (12 Sitze) → 18,3% (107 Sitze) = fast verneunfacht\nDNVP: 14,2% → 7,0% (halbiert)\nSPD: 29,8% → 24,5% (Verluste)\nKPD: 10,6% → 13,1% (Zugewinn)\nWahlbeteiligung stieg von 75,6% auf 82%\n→ Radikale Parteien (NSDAP, KPD) gewannen, demokratische Mitte verlor.",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "Tabelle: Reichstagswahlen 1928 vs. 1930 (Skript S. 69, Tab. 3.1)"
+        },
+        {
+          "id": "weimarer-republik-55",
+          "nr": 55,
+          "question": "Wie endete die politische Gewalt 1931/1932?",
+          "answer": "Sie endete nicht – sie eskalierte. NSDAP und DVP verließen 1931 den Reichstag. Politische Auseinandersetzungen verlagerten sich auf die Straße. SA (NSDAP) und Roter Frontkämpferbund (KPD) sorgten für bürgerkriegsähnliche Zustände. Wieder politische Morde (erstmals seit 1923). Polizei kam oft zu spät oder griff halbherzig ein (viele Polizisten sympathisierten mit rechten Parteien).",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "weimarer-republik-56",
+          "nr": 56,
+          "question": "Zusammenfassung: Warum scheiterte die Weimarer Republik?",
+          "answer": "1. Verfassungsschwächen (Macht des Präsidenten, Art. 48)\n2. Fehlende demokratische Tradition/Erfahrung der Parteien\n3. Mangelnde Kompromissfähigkeit\n4. Antidemokratische Parteien (NSDAP, KPD, DNVP)\n5. Alte Machteliten in Verwaltung, Justiz, Militär\n6. Wirtschaftskrisen (Hyperinflation 1923, Weltwirtschaftskrise 1929)\n7. Dolchstoßlegende und Versailler Vertrag als Belastung\n8. Politische Gewalt und paramilitärische Verbände\n9. Verunsicherung und Entwurzelung breiter Bevölkerungsschichten\n10. Intrigen im Umfeld Hindenburgs",
+          "section": "ERGÄNZENDES WISSEN AUS DEM SKRIPT",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        }
+      ]
+    },
+    {
+      "id": "zelle",
+      "title": "Zelle",
+      "sourceFile": "Karteikarten_Zelle.xlsx",
+      "cards": [
+        {
+          "id": "zelle-1",
+          "nr": 1,
+          "question": "Nenne die drei Grundbestandteile, die JEDE Zelle hat (Grundbauplan).",
+          "answer": "1. Zellmembran (Schutzhülle, kontrolliert Stoffaustausch)\n2. Zellplasma/Cytoplasma (gelartige Substanz, Ort der Stoffwechselprozesse)\n3. Zellorganellen (kleine Organe der Zelle mit bestimmten Aufgaben)",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-2",
+          "nr": 2,
+          "question": "Nenne die vier Zellorganellen der Grundausstattung und ihre Aufgaben.",
+          "answer": "1. Zellkern: enthält DNA/Erbmaterial, steuert alle Lebensvorgänge\n2. Mitochondrien: \"Kraftwerke der Zelle\", Energiegewinnung (Zellatmung)\n3. Endoplasmatisches Reticulum (ER) mit Ribosomen: Stoffproduktion, -transport; Ribosomen = Eiweißfabriken\n4. Golgi-Apparat mit Vesikeln: Transporte innerhalb der Zelle",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-3",
+          "nr": 3,
+          "question": "Welche drei zusätzlichen Bestandteile hat eine Pflanzenzelle, die eine Tierzelle NICHT hat?",
+          "answer": "1. Zellwand (aus Cellulose, gibt Stabilität)\n2. Chloroplasten (grün, betreiben Fotosynthese)\n3. Vakuole (Zellsaftraum, speichert Stoffe, gibt zusammen mit Zellwand Stabilität)",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-4",
+          "nr": 4,
+          "question": "Erstelle einen Vergleich: Pflanzenzelle vs. Tierzelle.",
+          "answer": "Gemeinsam: Zellmembran, Zellplasma, Zellkern, Mitochondrien, ER mit Ribosomen, Golgi-Apparat.\n\nNUR Pflanzenzelle: Zellwand, Chloroplasten, Vakuole (groß).\nNUR Tierzelle: keine Zellwand, keine Chloroplasten, keine große Vakuole.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-5",
+          "nr": 5,
+          "question": "Was ist die Zellmembran und welche Aufgabe hat sie?",
+          "answer": "Die Schutzhülle der Zelle. Sie reguliert den Stoffaustausch mit der Umgebung und kontrolliert, was in die Zelle hinein- und herauskommt. Sie ist für Wasser durchlässig.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-6",
+          "nr": 6,
+          "question": "Was ist das Cytoplasma (Zellplasma)?",
+          "answer": "Eine gelartige Substanz, die hauptsächlich aus Wasser besteht. In ihr finden alle wichtigen Stoffwechselprozesse statt. Die Zellorganellen sind darin eingebettet.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-7",
+          "nr": 7,
+          "question": "Was ist der Zellkern und welche Aufgabe hat er?",
+          "answer": "Der Zellkern enthält das Erbmaterial (DNA) und steuert alle Lebensvorgänge in der Zelle. Er ist die \"Steuerzentrale\" der Zelle.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-8",
+          "nr": 8,
+          "question": "Was ist ein Mitochondrium und warum nennt man es \"Kraftwerk der Zelle\"?",
+          "answer": "Ein Mitochondrium ist eine Zellorganelle, die Energie für alle Lebensvorgänge gewinnt (Zellatmung). Dabei wird Zucker mithilfe von Sauerstoff \"verbrannt\". Deshalb: \"Kraftwerk der Zelle\".",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-9",
+          "nr": 9,
+          "question": "Was ist ein Chloroplast und welche Aufgabe hat er?",
+          "answer": "Chloroplasten sind grüne Zellorganellen, die NUR in Pflanzenzellen vorkommen. Sie betreiben die Fotosynthese: Aus Wasser und CO₂ wird mithilfe von Licht Zucker hergestellt, dabei wird O₂ freigesetzt.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-10",
+          "nr": 10,
+          "question": "Was ist die Zellwand und woraus besteht sie?",
+          "answer": "Die Zellwand liegt außerhalb der Zellmembran bei Pflanzenzellen. Sie besteht aus Cellulose (Ballaststoff) und verleiht der Zelle Stabilität. Sie hat Öffnungen (Tüpfel), reguliert aber NICHT den Stoffaustausch – das macht die Zellmembran.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-11",
+          "nr": 11,
+          "question": "Was ist die Zellvakuole und welche Aufgabe hat sie?",
+          "answer": "Die Vakuole (Zellsaftraum) ist ein großer, flüssigkeitsgefüllter Raum in der Pflanzenzelle. Sie speichert verschiedene Stoffe (z.B. Zucker). Zusammen mit der Zellwand sorgt sie für Stabilität: Die prall gefüllte Vakuole drückt auf die feste Zellwand → Pflanze steht aufrecht.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-12",
+          "nr": 12,
+          "question": "Warum welkt eine Pflanze bei Wassermangel?",
+          "answer": "Wenn die Pflanze zu wenig Wasser hat, ist die Vakuole nicht prall gefüllt. Der Druck auf die Zellwand fehlt → die Zelle verliert ihre Stabilität → die Pflanze wird schlaff/welk.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-13",
+          "nr": 13,
+          "question": "Was sind Zellorganellen?",
+          "answer": "Zellorganellen sind die \"kleinen Organe\" einer Zelle. Wie Organe im Körper übernehmen sie bestimmte Aufgaben innerhalb der Zelle. Sie sind von Membranen umgeben und dadurch vom Zellplasma abgegrenzt.",
+          "section": "BAU DER TIERZELLE UND DER PFLANZENZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-14",
+          "nr": 14,
+          "question": "Warum ist die Zelle die kleinste Einheit des Lebens?",
+          "answer": "Weil eine Zelle alle lebensnotwendigen Aufgaben selbstständig ausführen kann:\n- eigener Stoffwechsel\n- Austausch mit Umgebung\n- Fortpflanzungsfähig (Zellteilung)\n- Wachstum und Entwicklung\n- Reagiert auf Reize\n→ Erfüllt alle Kriterien des Lebens.",
+          "section": "ZELLEN ALS STRUKTURELLE UND FUNKTIONELLE GRUNDBAUEINHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-15",
+          "nr": 15,
+          "question": "Wie groß sind Zellen? Nenne Beispiele.",
+          "answer": "Zellen sind meist mikroskopisch klein (braucht Mikroskop, bis 1500-fach). Beispiele:\n- Pflanzenzelle (Zwiebel): ca. 0,4 mm\n- Muskelzelle: ca. 0,3 mm\n- Eizelle Mensch: ca. 0,1 mm\n- Rotes Blutkörperchen: ca. 0,008 mm",
+          "section": "ZELLEN ALS STRUKTURELLE UND FUNKTIONELLE GRUNDBAUEINHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-16",
+          "nr": 16,
+          "question": "Warum sehen Zellen trotz gleichem Grundbauplan unterschiedlich aus?",
+          "answer": "Weil das Aussehen einer Zelle an ihre Funktion angepasst ist. Beispiele:\n- Nervenzellen: lang gestreckt mit Verknüpfungsstellen (Reizweiterleitung)\n- Muskelzellen: dehnbar, zusammenziehbar (Bewegung)\n- Fresszellen (weiße Blutkörperchen): umschließen Eindringlinge",
+          "section": "ZELLEN ALS STRUKTURELLE UND FUNKTIONELLE GRUNDBAUEINHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-17",
+          "nr": 17,
+          "question": "Fabrik-Vergleich: Ordne Zellbestandteile den Fabrik-Funktionen zu.",
+          "answer": "Zellmembran = Mauer mit Werktoren (kontrolliert Ein-/Ausgang)\nZellkern = Management (steuert alles)\nMitochondrium = Kraftwerk (Energieerzeugung)\nER = Werkstraße/Fertigung (Produktion + Transport)\nChloroplasten = Solaranlage (Energie aus Licht)\nGolgi-Apparat = Versandzentrale (Verpackung + Versand)",
+          "section": "ZELLEN ALS STRUKTURELLE UND FUNKTIONELLE GRUNDBAUEINHEITEN",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-18",
+          "nr": 18,
+          "question": "Was ist ein Einzeller?",
+          "answer": "Ein Lebewesen, das nur aus einer einzigen Zelle besteht. Diese eine Zelle übernimmt alle Lebensfunktionen. Alle Einzeller vermehren sich durch Zweiteilung.",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-19",
+          "nr": 19,
+          "question": "Was ist das Pantoffeltierchen? Beschreibe seinen Aufbau.",
+          "answer": "Ein tierischer Einzeller (Ciliat). Aufbau:\n- Wimpern (Cilien) auf der Oberfläche → Fortbewegung\n- Mundfeld → strudelt Nahrung ein\n- Nahrungsvakuolen → Transport und Verdauung\n- Pulsierende Vakuole → pumpt überschüssiges Wasser raus\n- Groß- und Kleinkern → steuern Lebensvorgänge\n- Zellafter → Ausscheidung",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": "→ Abb. 8.22 (S. 71): Pantoffeltierchen"
+        },
+        {
+          "id": "zelle-20",
+          "nr": 20,
+          "question": "Was ist eine Amöbe?",
+          "answer": "Ein tierischer Einzeller ohne feste Form. Die Amöbe bewegt sich durch Ausstülpungen ihres Zellplasmas (Scheinfüßchen) fort und umschließt damit auch Nahrung.",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-21",
+          "nr": 21,
+          "question": "Was ist eine Geißelalge (Euglena)?",
+          "answer": "Euglena ist ein Einzeller, der NICHT eindeutig Pflanze oder Tier ist.\n- Bei Licht: betreibt Fotosynthese (wie Pflanze)\n- Ohne Licht: nimmt Nahrung auf (wie Tier)\n- Bewegt sich mit einer Geißel fort\nSie ist eine Besonderheit unter den Einzellern.",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-22",
+          "nr": 22,
+          "question": "Nenne Beispiele für pflanzliche und tierische Einzeller.",
+          "answer": "Pflanzliche Einzeller: Algen, Geißelalge (Euglena – Sonderfall)\nTierische Einzeller: Pantoffeltierchen, Amöbe, Geißeltierchen (Flagellaten)\nWeitere aus dem Heuaufguss: Glockentierchen, Trompetentiere, Heutierchen, Bakterien",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-23",
+          "nr": 23,
+          "question": "Wie unterscheidet man pflanzliche von tierischen Einzellern?",
+          "answer": "Pflanzliche Einzeller betreiben Fotosynthese (haben Chloroplasten).\nTierische Einzeller müssen Nahrung aufnehmen.\nAusnahme: Euglena kann beides!",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-24",
+          "nr": 24,
+          "question": "Was sind Bakterien und wie unterscheiden sie sich von anderen Zellen?",
+          "answer": "Bakterien sind sehr einfache, winzige Einzeller. Sie haben KEINEN Zellkern und KEINE Zellorganellen. Alle Lebensvorgänge finden direkt im Zellplasma statt. Im Mikroskop erscheinen sie als Stäbchen oder Kugeln.",
+          "section": "EINZELLER – LEBEWESEN AUS EINER EINZIGEN ZELLE",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-25",
+          "nr": 25,
+          "question": "Definiere: Zellorganell",
+          "answer": "\"Kleines Organ\" innerhalb einer Zelle. Von Membranen umgeben. Übernimmt bestimmte Aufgaben (z.B. Zellkern, Mitochondrium, ER, Golgi-Apparat, Chloroplast).",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-26",
+          "nr": 26,
+          "question": "Definiere: Chloroplast",
+          "answer": "Grüne Zellorganelle NUR in Pflanzenzellen. Betreibt Fotosynthese: wandelt mit Licht CO₂ + H₂O in Zucker + O₂ um.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-27",
+          "nr": 27,
+          "question": "Definiere: Cytoplasma",
+          "answer": "Gelartige Substanz im Inneren der Zelle, hauptsächlich aus Wasser. Ort der Stoffwechselprozesse. Zellorganellen sind darin eingebettet.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-28",
+          "nr": 28,
+          "question": "Definiere: Mitochondrium",
+          "answer": "\"Kraftwerk der Zelle\". Gewinnt Energie durch Zellatmung (Zucker + O₂ → Energie + CO₂ + H₂O). In tierischen UND pflanzlichen Zellen.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-29",
+          "nr": 29,
+          "question": "Definiere: Zellkern",
+          "answer": "Steuerzentrale der Zelle. Enthält das Erbmaterial (DNA). Steuert alle Lebensvorgänge.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-30",
+          "nr": 30,
+          "question": "Definiere: Zellvakuole",
+          "answer": "Großer Zellsaftraum in Pflanzenzellen. Speichert Stoffe (z.B. Zucker). Sorgt zusammen mit der Zellwand für Stabilität (Druck-Gegendruck-Prinzip).",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-31",
+          "nr": 31,
+          "question": "Definiere: Zellmembran",
+          "answer": "Dünne Schutzhülle jeder Zelle. Reguliert den Stoffaustausch mit der Umgebung. Ist für Wasser durchlässig.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-32",
+          "nr": 32,
+          "question": "Definiere: Zellwand",
+          "answer": "Feste Hülle aus Cellulose NUR bei Pflanzenzellen (außerhalb der Zellmembran). Gibt Stabilität. Hat Öffnungen (Tüpfel).",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-33",
+          "nr": 33,
+          "question": "Definiere: Pantoffeltierchen",
+          "answer": "Tierischer Einzeller (Ciliat). Hat Wimpern zur Fortbewegung, Mundfeld, Nahrungsvakuolen, pulsierende Vakuole, Groß- und Kleinkern.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-34",
+          "nr": 34,
+          "question": "Definiere: Amöbe",
+          "answer": "Tierischer Einzeller ohne feste Form. Bewegt sich mit Scheinfüßchen (Ausstülpungen) fort und umschließt damit Nahrung.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-35",
+          "nr": 35,
+          "question": "Definiere: Geißelalge (Euglena)",
+          "answer": "Einzeller, der sowohl Fotosynthese betreiben als auch Nahrung aufnehmen kann. Bewegt sich mit Geißel fort. Weder eindeutig Pflanze noch Tier.",
+          "section": "FACHBEGRIFFE-CHECK (alle aus dem Themenkatalog)",
+          "sheet": "Block 1 - Themenkatalog",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-36",
+          "nr": 36,
+          "question": "Was ist Fotosynthese? Nenne Ausgangsstoffe und Endprodukte.",
+          "answer": "Die Herstellung von Zucker mithilfe von Licht in den Chloroplasten.\nAusgangsstoffe: Wasser (H₂O) + Kohlenstoffdioxid (CO₂) + Lichtenergie\nEndprodukte: Zucker + Sauerstoff (O₂)\nReaktionsgleichung: H₂O + CO₂ → Zucker + O₂",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-37",
+          "nr": 37,
+          "question": "Was bedeutet das Wort \"Fotosynthese\"?",
+          "answer": "Foto = \"mit Licht\", Synthese = \"Herstellung\". Also: Herstellung (von Zucker) mit Hilfe von Licht.",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-38",
+          "nr": 38,
+          "question": "Woher bekommt die Pflanze die Ausgangsstoffe für die Fotosynthese?",
+          "answer": "CO₂ gelangt über die Blätter aus der Luft in die Pflanze.\nWasser wird über die Wurzeln aus dem Erdreich aufgenommen.",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-39",
+          "nr": 39,
+          "question": "Warum ist die Fotosynthese für das Leben auf der Erde unverzichtbar?",
+          "answer": "Weil Pflanzen bei der Fotosynthese Sauerstoff freisetzen – den Sauerstoff, den alle Lebewesen zum Atmen brauchen. Ohne Fotosynthese kein O₂ → kein Leben.",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-40",
+          "nr": 40,
+          "question": "Wozu braucht die Pflanze den selbst produzierten Zucker?",
+          "answer": "1. Energiegewinnung für alle Lebensvorgänge (Zellatmung)\n2. Wachstum\n3. Umbau in pflanzeneigene Materialien\n4. Speicherung in Früchten oder Knollen",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-41",
+          "nr": 41,
+          "question": "Was ist Zellatmung? Nenne Ausgangsstoffe und Endprodukte.",
+          "answer": "Die Verbrennung von Zucker in den Mitochondrien zur Energiegewinnung.\nAusgangsstoffe: Zucker + Sauerstoff (O₂)\nEndprodukte: Wasser (H₂O) + Kohlenstoffdioxid (CO₂) + Energie\nReaktionsgleichung: Zucker + O₂ → H₂O + CO₂ + Energie",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-42",
+          "nr": 42,
+          "question": "In welchem Zusammenhang stehen Fotosynthese und Zellatmung?",
+          "answer": "Sie sind umgekehrte Vorgänge und ergänzen sich!\nFotosynthese: H₂O + CO₂ → Zucker + O₂ (in Chloroplasten, NUR Pflanzen)\nZellatmung: Zucker + O₂ → H₂O + CO₂ + Energie (in Mitochondrien, Pflanzen UND Tiere)\nChloroplasten und Mitochondrien arbeiten zusammen.",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.12 (S. 65): Zusammenarbeit Chloroplasten/Mitochondrien"
+        },
+        {
+          "id": "zelle-43",
+          "nr": 43,
+          "question": "Wo findet Zellatmung statt – nur in Tieren oder auch in Pflanzen?",
+          "answer": "In BEIDEN! Alle Lebewesen (Tiere UND Pflanzen) haben Mitochondrien und betreiben Zellatmung zur Energiegewinnung.",
+          "section": "FOTOSYNTHESE UND ZELLATMUNG",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-44",
+          "nr": 44,
+          "question": "Was ist Diffusion?",
+          "answer": "Wenn zwei Lösungen mit unterschiedlicher Konzentration zusammengebracht werden, vermischen sie sich, bis ein Ausgleich (gleiche Konzentration) hergestellt ist.",
+          "section": "OSMOSE",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-45",
+          "nr": 45,
+          "question": "Was ist Osmose?",
+          "answer": "Sind zwei unterschiedlich konzentrierte Lösungen durch eine Zellmembran getrennt (die nur für Wasser durchlässig ist), strömt Wasser durch die Membran zur Seite mit der höheren Konzentration, bis ein Ausgleich hergestellt ist.",
+          "section": "OSMOSE",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.18 (S. 69): Osmose"
+        },
+        {
+          "id": "zelle-46",
+          "nr": 46,
+          "question": "Erkläre das Kirsch-Beispiel für Osmose.",
+          "answer": "Kirschen enthalten viel Zucker (hohe Konzentration in der Vakuole). Regenwasser hat niedrige Konzentration. Da die Membran nur Wasser durchlässt (nicht Zucker), strömt Wasser in die Kirsche/Vakuole → Vakuole wird immer praller → Kirsche platzt.",
+          "section": "OSMOSE",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.19 (S. 69): Kirsche platzt"
+        },
+        {
+          "id": "zelle-47",
+          "nr": 47,
+          "question": "Wie vermehren sich Einzeller?",
+          "answer": "Durch Zweiteilung: Die Zelle teilt sich in zwei neue, gleichartige Zellen.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-48",
+          "nr": 48,
+          "question": "Was ist Volvox und warum ist sie besonders?",
+          "answer": "Volvox (Wimperkugel) ist eine Algenkolonie. Obwohl die Zellen ähnlich aussehen, übernehmen sie bereits verschiedene Aufgaben. Volvox steht an der Schwelle von der Ein- zur Mehrzelligkeit.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-49",
+          "nr": 49,
+          "question": "Was sind Geißeltierchen (Flagellaten)?",
+          "answer": "Einzeller mit Geißeln zur Fortbewegung. Sie ernähren sich räuberisch (z.B. von Bakterien). Haben Zellkern und Zellorganellen (komplexer als Bakterien).",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-50",
+          "nr": 50,
+          "question": "Was ist der Süßwasserpolyp (Hydra)?",
+          "answer": "Ein einfacher Mehrzeller (bis 2 cm). Hat Fußscheibe (Anheftung), Tentakeln (Nahrungsfang). Körperwand: zwei Schichten mit verschiedenen Zelltypen (Sinnes-, Muskel-, Nessel-, Fress-, Drüsenzellen). Lebt in Symbiose mit einer Alge (ist grün, betreibt aber selbst KEINE Fotosynthese).",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-51",
+          "nr": 51,
+          "question": "Was ist Symbiose? Nenne ein Beispiel.",
+          "answer": "Eine Lebensgemeinschaft, von der BEIDE Partner profitieren. Beispiel: Süßwasserpolyp (Hydra) und Alge → die Alge betreibt Fotosynthese, der Polyp bietet Schutz.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-52",
+          "nr": 52,
+          "question": "Was sind Rädertierchen?",
+          "answer": "Einfache Mehrzeller aus dem Heuaufguss. Körper in Kopf, Rumpf und Fuß gegliedert. Am Kopf: Räderorgan mit Wimpernfeldern (Fortbewegung + Nahrungsaufnahme). Haben bereits Magen, Magendrüse, Darm und Blase.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-53",
+          "nr": 53,
+          "question": "Nenne die fünf Systemebenen in der richtigen Reihenfolge.",
+          "answer": "1. Zellen → 2. Gewebe → 3. Organe → 4. Organsysteme → 5. Organismus\nInnerhalb der Systemebenen herrscht Arbeitsteilung.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.27 (S. 74): Systemebenen"
+        },
+        {
+          "id": "zelle-54",
+          "nr": 54,
+          "question": "Was ist ein Gewebe?",
+          "answer": "Gleichartige Zellen mit gleichartiger Aufgabe bilden ein Gewebe. Beispiel: Muskelgewebe besteht aus vielen Muskelzellen.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-55",
+          "nr": 55,
+          "question": "Was ist ein Organ?",
+          "answer": "Ein Organ besteht aus verschiedenen Gewebetypen und hat eine bestimmte Aufgabe. Beispiel: Das Herz besteht aus Muskelgewebe, Nervengewebe usw.",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-56",
+          "nr": 56,
+          "question": "Was ist ein Organsystem?",
+          "answer": "In einem Organsystem arbeiten verschiedene Organe zusammen. Beispiel: Verdauungssystem (Mund, Magen, Darm, Leber usw.).",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-57",
+          "nr": 57,
+          "question": "Gibt es Systemebenen auch bei Pflanzen?",
+          "answer": "Ja! Auch Pflanzen haben Gewebe (z.B. in Blättern für Fotosynthese), Organe (Blätter, Wurzeln, Stängel) und Organsysteme (z.B. Blüte: Kron-/Kelchblätter, Staubblätter, Kelch).",
+          "section": "VOM EINZELLER ZUM MEHRZELLER / SYSTEMEBENEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": null
+        },
+        {
+          "id": "zelle-58",
+          "nr": 58,
+          "question": "Beschrifte den Grundbauplan einer Zelle.",
+          "answer": "Zellkern mit Erbsubstanz, Mitochondrium, Golgi-Apparat mit Vesikeln, Zellplasma, Ribosom, Zellmembran, Endoplasmatisches Reticulum mit Ribosomen.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.4 (S. 58): Grundbauplan einer Zelle"
+        },
+        {
+          "id": "zelle-59",
+          "nr": 59,
+          "question": "Beschrifte die tierische Zelle.",
+          "answer": "Zellkern, Zellplasma, Zellmembran, Mitochondrium, ER mit Ribosomen, Golgi-Apparat mit Vesikeln, Bläschen mit Verdauungssäften.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.7 (S. 60): Tierische Zelle"
+        },
+        {
+          "id": "zelle-60",
+          "nr": 60,
+          "question": "Beschrifte die pflanzliche Zelle.",
+          "answer": "Zellwand, Chloroplasten, Vakuole (mit Kristallen), Zellplasma, Zellmembran, Zellkern, Mitochondrien, Golgi-Apparat mit Vesikeln, ER mit Ribosomen, Tüpfel.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.8 (S. 61): Pflanzliche Zelle"
+        },
+        {
+          "id": "zelle-61",
+          "nr": 61,
+          "question": "Beschrifte das Pantoffeltierchen.",
+          "answer": "Wimpern (Cilien), Mundfeld, Nahrungsvakuole, Zellafter, Pulsierende Vakuole, Groß- und Kleinkern.",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.22 (S. 71): Pantoffeltierchen"
+        },
+        {
+          "id": "zelle-62",
+          "nr": 62,
+          "question": "Was zeigt dieses Schema und erkläre den Zusammenhang.",
+          "answer": "Zusammenarbeit von Chloroplasten und Mitochondrien:\nChloroplast (Fotosynthese): CO₂ + H₂O → Zucker + O₂\nMitochondrium (Zellatmung): Zucker + O₂ → CO₂ + H₂O + Energie\nEs sind umgekehrte Vorgänge!",
+          "section": "BILDKARTEIKARTEN",
+          "sheet": "Block 2 - Ergänzend",
+          "imageRef": "→ Abb. 8.12 (S. 65): Chloroplasten + Mitochondrien"
+        }
+      ]
+    }
+  ]
+}
