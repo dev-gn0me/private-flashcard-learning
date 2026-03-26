@@ -18,7 +18,7 @@ const DEFAULT_STATS: DeckStats = {
   wrong: 0,
   streak: 0,
   lastStudiedAt: null,
-  completedCardIds: []
+  completedCardIds: [],
 };
 
 function shuffle<T>(items: T[]) {
@@ -56,9 +56,10 @@ export function StudyClient({ deck }: { deck: StudyDeck }) {
 
   useEffect(() => {
     const completed = new Set(stats.completedCardIds);
-    const base = mode === "open"
-      ? deck.cards.filter((card) => !completed.has(card.id))
-      : deck.cards;
+    const base =
+      mode === "open"
+        ? deck.cards.filter((card) => !completed.has(card.id))
+        : deck.cards;
     setQueue(shuffle(base.length > 0 ? base : deck.cards));
     setIndex(0);
     setRevealed(false);
@@ -91,7 +92,7 @@ export function StudyClient({ deck }: { deck: StudyDeck }) {
       wrong: stats.wrong + (result === "wrong" ? 1 : 0),
       streak: result === "correct" ? stats.streak + 1 : 0,
       lastStudiedAt: new Date().toISOString(),
-      completedCardIds: [...completed]
+      completedCardIds: [...completed],
     };
 
     persist(nextStats);
@@ -102,10 +103,13 @@ export function StudyClient({ deck }: { deck: StudyDeck }) {
       return;
     }
 
-    const fallbackBase = mode === "open"
-      ? deck.cards.filter((card) => !completed.has(card.id))
-      : deck.cards;
-    const nextQueue = shuffle(fallbackBase.length > 0 ? fallbackBase : deck.cards);
+    const fallbackBase =
+      mode === "open"
+        ? deck.cards.filter((card) => !completed.has(card.id))
+        : deck.cards;
+    const nextQueue = shuffle(
+      fallbackBase.length > 0 ? fallbackBase : deck.cards,
+    );
     setQueue(nextQueue);
     setIndex(0);
   }
@@ -129,7 +133,6 @@ export function StudyClient({ deck }: { deck: StudyDeck }) {
       </div>
 
       <div className="cardBox" onClick={() => setRevealed((value) => !value)}>
-        <div className="mutedLabel">{currentCard.section}</div>
         <h2>{currentCard.question}</h2>
         {revealed ? (
           <div className="answerBox">
@@ -138,12 +141,17 @@ export function StudyClient({ deck }: { deck: StudyDeck }) {
             ))}
           </div>
         ) : (
-          <p className="hintText">Tippe auf die Karte, um die Antwort zu zeigen.</p>
+          <p className="hintText">
+            Tippe auf die Karte, um die Antwort zu zeigen.
+          </p>
         )}
       </div>
 
       <div className="buttonRow">
-        <button className="ghostButton" onClick={() => setRevealed((value) => !value)}>
+        <button
+          className="ghostButton"
+          onClick={() => setRevealed((value) => !value)}
+        >
           {revealed ? "Antwort ausblenden" : "Antwort zeigen"}
         </button>
       </div>
@@ -158,20 +166,34 @@ export function StudyClient({ deck }: { deck: StudyDeck }) {
       </div>
 
       <div className="statsGrid">
-        <div className="miniCard"><strong>{stats.seen}</strong><span>Bearbeitet</span></div>
-        <div className="miniCard"><strong>{stats.correct}</strong><span>Richtig</span></div>
-        <div className="miniCard"><strong>{stats.wrong}</strong><span>Falsch</span></div>
+        <div className="miniCard">
+          <strong>{stats.seen}</strong>
+          <span>Bearbeitet</span>
+        </div>
+        <div className="miniCard">
+          <strong>{stats.correct}</strong>
+          <span>Richtig</span>
+        </div>
+        <div className="miniCard">
+          <strong>{stats.wrong}</strong>
+          <span>Falsch</span>
+        </div>
       </div>
 
       <div className="settingsBox">
         <label>
           Lernmodus
-          <select value={mode} onChange={(e) => setMode(e.target.value as "all" | "open") }>
+          <select
+            value={mode}
+            onChange={(e) => setMode(e.target.value as "all" | "open")}
+          >
             <option value="open">Nur offene Karten</option>
             <option value="all">Alle Karten gemischt</option>
           </select>
         </label>
-        <button className="ghostButton" onClick={resetProgress}>Fortschritt zurücksetzen</button>
+        <button className="ghostButton" onClick={resetProgress}>
+          Fortschritt zurücksetzen
+        </button>
       </div>
     </div>
   );
