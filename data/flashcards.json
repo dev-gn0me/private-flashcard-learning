@@ -4,6 +4,7 @@
       "id": "auge",
       "title": "Auge",
       "sourceFile": "Karteikarten_Auge.xlsx",
+      "category": "Biologie",
       "cards": [
         {
           "id": "auge-1",
@@ -569,6 +570,7 @@
       "id": "blut-und-infektionsabwehr",
       "title": "Blut und Infektionsabwehr",
       "sourceFile": "Karteikarten_Blut_und_Infektionsabwehr.xlsx",
+      "category": "Biologie",
       "cards": [
         {
           "id": "blut-und-infektionsabwehr-1",
@@ -1188,6 +1190,7 @@
       "id": "geo-trockengebiete-polarregion",
       "title": "Geo Trockengebiete Polarregion",
       "sourceFile": "Karteikarten_Geo_Trockengebiete_Polarregion.xlsx",
+      "category": "Geographie",
       "cards": [
         {
           "id": "geo-trockengebiete-polarregion-1",
@@ -1744,6 +1747,7 @@
       "id": "geographie-die-erde",
       "title": "Geographie Die Erde",
       "sourceFile": "Karteikarten_Geographie_Die_Erde.xlsx",
+      "category": "Geographie",
       "cards": [
         {
           "id": "geographie-die-erde-1",
@@ -2579,6 +2583,7 @@
       "id": "weimarer-republik",
       "title": "Weimarer Republik",
       "sourceFile": "Karteikarten_Weimarer_Republik.xlsx",
+      "category": "Geschichte",
       "cards": [
         {
           "id": "weimarer-republik-1",
@@ -3090,6 +3095,7 @@
       "id": "zelle",
       "title": "Zelle",
       "sourceFile": "Karteikarten_Zelle.xlsx",
+      "category": "Biologie",
       "cards": [
         {
           "id": "zelle-1",

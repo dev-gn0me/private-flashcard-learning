@@ -16,6 +16,18 @@ function slugify(text) {
     .replace(/^-+|-+$/g, "");
 }
 
+const CATEGORY_RULES = [
+  { match: /^(auge|blut|zelle)/i, category: "Biologie" },
+  { match: /^(geo|geographie)/i, category: "Geographie" },
+  { match: /(weimar|republik|geschichte)/i, category: "Geschichte" }
+];
+
+function inferCategory(rawTitle, fileName) {
+  const haystack = `${rawTitle} ${fileName}`;
+  const found = CATEGORY_RULES.find((rule) => rule.match.test(haystack));
+  return found?.category ?? "Sonstiges";
+}
+
 if (!fs.existsSync(importsDir)) {
   console.error("Ordner ./imports fehlt. Lege dort deine Excel-Dateien ab.");
   process.exit(1);
@@ -31,6 +43,7 @@ for (const file of files) {
     id: slugify(rawTitle),
     title: rawTitle,
     sourceFile: file,
+    category: inferCategory(rawTitle, file),
     cards: []
   };
 
