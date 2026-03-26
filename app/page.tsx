@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import { subjectGroups, subjects } from "@/lib/data";
 
@@ -27,7 +29,7 @@ export default function HomePage() {
                 <h2>{group.category}</h2>
                 <p>{group.subjects.length} Unterthemen · {group.cards.length} Karten</p>
               </div>
-              <div className="summaryActions" onClick={(event) => event.preventDefault()}>
+              <div className="summaryActions" onClick={(event) => event.stopPropagation()}>
                 <Link className="primaryButton" href={`/study/fach-${group.id}`}>
                   ▶ Fach lernen
                 </Link>
